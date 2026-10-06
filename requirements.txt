@@ -1,0 +1,10 @@
+pandas
+kagglehub
+openpyxl
+pyyaml
+python-dotenv
+matplotlib
+ipykernel
+sqlalchemy 
+psycopg2-binary
+ 

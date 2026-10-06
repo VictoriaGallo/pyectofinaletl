@@ -1,0 +1,116 @@
+2026-10-05 15:46:19,566 | INFO | src.extract.extract_excel | Extraídas 1000 filas (kagglehub)
+2026-10-05 15:46:20,256 | INFO | src.extract.extract_excel | Extraídas 214 filas de benchmark (kagglehub)
+2026-10-05 15:46:20,275 | INFO | __main__ | Duplicados eliminados: 0 exactos, 0 por id_orden
+2026-10-05 15:46:20,290 | INFO | __main__ | Fechas con guion: 0 con primer número > 12, 0 con segundo número > 12
+2026-10-05 15:46:20,297 | INFO | __main__ | Fechas con guion ambiguas. Dentro del rango de referencia: {'%m-%d-%Y': 376, '%d-%m-%Y': 231}
+2026-10-05 15:46:20,298 | INFO | __main__ | Formato elegido para fechas con guion: %m-%d-%Y
+2026-10-05 15:46:20,301 | INFO | __main__ | Fechas: 597 con barra, 403 con guion, 0 otras, 0 sin poder convertir (NaT)
+2026-10-05 15:46:20,312 | INFO | __main__ | Coherencia de montos: todas las filas cuadran con precio x cantidad.
+2026-10-05 15:46:20,313 | INFO | __main__ | tipo_pago: 107 nulos etiquetados como 'Desconocido'
+2026-10-05 15:46:20,335 | INFO | __main__ | Ventas plata: 1000 filas (de 1000), rango 2022-04-01 a 2023-03-30
+2026-10-05 15:46:20,346 | INFO | __main__ | Benchmark plata: 214 países (de 214 filas)
+2026-10-05 15:46:20,355 | INFO | __main__ | Guardado data\silver\ventas_silver.csv (1000 filas)
+2026-10-05 15:46:20,359 | INFO | __main__ | Guardado data\silver\benchmark_silver.csv (214 filas)
+2026-10-05 15:55:15,400 | INFO | __main__ | Plata cargada: 1000 ventas, 214 países
+2026-10-05 15:55:15,453 | INFO | __main__ | Demanda diaria: 364 días x 7 ítems = 2548 filas (32.3 % con ventas)
+2026-10-05 15:55:15,504 | INFO | __main__ | Simulación: se excluyen 49 filas de la primera semana (sin historia para pronosticar)
+2026-10-05 15:55:15,651 | INFO | __main__ | Guardado data\gold\hechos_demanda_diaria.csv (2548 filas)
+2026-10-05 15:55:15,656 | INFO | __main__ | Guardado data\gold\demanda_dia_franja.csv (35 filas)
+2026-10-05 15:55:15,665 | INFO | __main__ | Guardado data\gold\variabilidad_item.csv (7 filas)
+2026-10-05 15:55:15,671 | INFO | __main__ | Guardado data\gold\ventas_mensuales.csv (12 filas)
+2026-10-05 15:55:15,675 | INFO | __main__ | Guardado data\gold\efecto_calendario.csv (4 filas)
+2026-10-05 15:55:15,681 | INFO | __main__ | Guardado data\gold\benchmark_contexto.csv (4 filas)
+2026-10-05 15:55:15,705 | INFO | __main__ | Guardado data\gold\merma_simulada_diaria.csv (2499 filas)
+2026-10-05 15:55:15,709 | INFO | __main__ | Guardado data\gold\kpis_simulados_resumen.csv (10 filas)
+2026-10-05 15:55:15,716 | INFO | __main__ | Guardado data\gold\kpis_simulados_mensual.csv (12 filas)
+2026-10-05 15:55:15,718 | INFO | __main__ | KPIs SIMULADOS (costo insumo 35 %, colchón 10 %, historia 4 semanas): CMV 95.29 % | Desviación de demanda 154.80 % | Merma 72.53 % de lo preparado
+2026-10-05 16:56:15,062 | INFO | pipeline | ========== Inicio del pipeline ==========
+2026-10-05 16:56:15,063 | INFO | pipeline | ---- 1. EXTRACT (bronce) ----
+2026-10-05 16:56:17,084 | INFO | src.extract.extract_excel | Extraídas 1000 filas (kagglehub)
+2026-10-05 16:56:17,788 | INFO | src.extract.extract_excel | Extraídas 214 filas de benchmark (kagglehub)
+2026-10-05 16:56:17,789 | INFO | pipeline | ---- 2. TRANSFORM (plata) ----
+2026-10-05 16:56:17,834 | INFO | src.transform.clean_excel | Duplicados eliminados: 0 exactos, 0 por id_orden
+2026-10-05 16:56:17,854 | INFO | src.transform.clean_excel | Fechas con guion: 0 con primer número > 12, 0 con segundo número > 12
+2026-10-05 16:56:17,861 | INFO | src.transform.clean_excel | Fechas con guion ambiguas. Dentro del rango de referencia: {'%m-%d-%Y': 376, '%d-%m-%Y': 231}
+2026-10-05 16:56:17,862 | INFO | src.transform.clean_excel | Formato elegido para fechas con guion: %m-%d-%Y
+2026-10-05 16:56:17,864 | INFO | src.transform.clean_excel | Fechas: 597 con barra, 403 con guion, 0 otras, 0 sin poder convertir (NaT)
+2026-10-05 16:56:17,874 | INFO | src.transform.clean_excel | Coherencia de montos: todas las filas cuadran con precio x cantidad.
+2026-10-05 16:56:17,874 | INFO | src.transform.clean_excel | tipo_pago: 107 nulos etiquetados como 'Desconocido'
+2026-10-05 16:56:17,906 | INFO | src.transform.clean_excel | Ventas plata: 1000 filas (de 1000), rango 2022-04-01 a 2023-03-30
+2026-10-05 16:56:17,921 | INFO | src.transform.clean_excel | Benchmark plata: 214 países (de 214 filas)
+2026-10-05 16:56:17,933 | INFO | src.transform.clean_excel | Guardado data\silver\ventas_silver.csv (1000 filas)
+2026-10-05 16:56:17,937 | INFO | src.transform.clean_excel | Guardado data\silver\benchmark_silver.csv (214 filas)
+2026-10-05 16:56:17,937 | INFO | pipeline | ---- 3. TRANSFORM (oro) ----
+2026-10-05 16:56:17,992 | INFO | src.transform.gold_data | Demanda diaria: 364 días x 7 ítems = 2548 filas (32.3 % con ventas)
+2026-10-05 16:56:18,057 | INFO | src.transform.gold_data | Simulación: se excluyen 49 filas de la primera semana (sin historia para pronosticar)
+2026-10-05 16:56:18,233 | INFO | src.transform.gold_data | Guardado data\gold\hechos_demanda_diaria.csv (2548 filas)
+2026-10-05 16:56:18,236 | INFO | src.transform.gold_data | Guardado data\gold\demanda_dia_franja.csv (35 filas)
+2026-10-05 16:56:18,241 | INFO | src.transform.gold_data | Guardado data\gold\variabilidad_item.csv (7 filas)
+2026-10-05 16:56:18,245 | INFO | src.transform.gold_data | Guardado data\gold\ventas_mensuales.csv (12 filas)
+2026-10-05 16:56:18,251 | INFO | src.transform.gold_data | Guardado data\gold\efecto_calendario.csv (4 filas)
+2026-10-05 16:56:18,260 | INFO | src.transform.gold_data | Guardado data\gold\benchmark_contexto.csv (4 filas)
+2026-10-05 16:56:18,294 | INFO | src.transform.gold_data | Guardado data\gold\merma_simulada_diaria.csv (2499 filas)
+2026-10-05 16:56:18,374 | INFO | src.transform.gold_data | Guardado data\gold\kpis_simulados_resumen.csv (10 filas)
+2026-10-05 16:56:18,400 | INFO | src.transform.gold_data | Guardado data\gold\kpis_simulados_mensual.csv (12 filas)
+2026-10-05 16:56:18,401 | INFO | src.transform.gold_data | KPIs SIMULADOS (costo insumo 35 %, colchón 10 %, historia 4 semanas): CMV 95.29 % | Desviación de demanda 154.80 % | Merma 72.53 % de lo preparado
+2026-10-05 16:56:18,402 | INFO | pipeline | ---- 4. LOAD (PostgreSQL) ----
+2026-10-05 16:56:20,164 | INFO | src.load.load_database | Base de datos 'mermas_etl' creada
+2026-10-05 16:56:20,222 | INFO | src.load.load_database | Conectado a PostgreSQL 18.6 en localhost:5432, base 'mermas_etl'
+2026-10-05 16:56:20,515 | INFO | src.load.load_database | Cargada silver.benchmark (214 filas)
+2026-10-05 16:56:20,812 | INFO | src.load.load_database | Cargada silver.ventas (1000 filas)
+2026-10-05 16:56:20,833 | INFO | src.load.load_database | Cargada gold.benchmark_contexto (4 filas)
+2026-10-05 16:56:20,858 | INFO | src.load.load_database | Cargada gold.demanda_dia_franja (35 filas)
+2026-10-05 16:56:20,882 | INFO | src.load.load_database | Cargada gold.efecto_calendario (4 filas)
+2026-10-05 16:56:21,377 | INFO | src.load.load_database | Cargada gold.hechos_demanda_diaria (2548 filas)
+2026-10-05 16:56:21,403 | INFO | src.load.load_database | Cargada gold.kpis_simulados_mensual (12 filas)
+2026-10-05 16:56:21,436 | INFO | src.load.load_database | Cargada gold.kpis_simulados_resumen (10 filas)
+2026-10-05 16:56:22,253 | INFO | src.load.load_database | Cargada gold.merma_simulada_diaria (2499 filas)
+2026-10-05 16:56:22,275 | INFO | src.load.load_database | Cargada gold.variabilidad_item (7 filas)
+2026-10-05 16:56:22,295 | INFO | src.load.load_database | Cargada gold.ventas_mensuales (12 filas)
+2026-10-05 16:56:22,312 | INFO | src.load.load_database | Verificación OK: 11 tablas con el número de filas esperado
+2026-10-05 16:56:22,313 | INFO | pipeline | ========== Pipeline terminado en 7.2 s ==========
+2026-10-05 17:09:35,894 | INFO | pipeline | ========== Inicio del pipeline ==========
+2026-10-05 17:09:35,894 | INFO | pipeline | ---- 1. EXTRACT (bronce) ----
+2026-10-05 17:09:37,289 | INFO | src.extract.extract_excel | Extraídas 1000 filas (kagglehub)
+2026-10-05 17:09:37,981 | INFO | src.extract.extract_excel | Extraídas 214 filas de benchmark (kagglehub)
+2026-10-05 17:09:37,982 | INFO | pipeline | ---- 2. TRANSFORM (plata) ----
+2026-10-05 17:09:38,006 | INFO | src.transform.clean_excel | Duplicados eliminados: 0 exactos, 0 por id_orden
+2026-10-05 17:09:38,025 | INFO | src.transform.clean_excel | Fechas con guion: 0 con primer número > 12, 0 con segundo número > 12
+2026-10-05 17:09:38,029 | INFO | src.transform.clean_excel | Fechas con guion ambiguas. Dentro del rango de referencia: {'%m-%d-%Y': 376, '%d-%m-%Y': 231}
+2026-10-05 17:09:38,030 | INFO | src.transform.clean_excel | Formato elegido para fechas con guion: %m-%d-%Y
+2026-10-05 17:09:38,032 | INFO | src.transform.clean_excel | Fechas: 597 con barra, 403 con guion, 0 otras, 0 sin poder convertir (NaT)
+2026-10-05 17:09:38,036 | INFO | src.transform.clean_excel | Coherencia de montos: todas las filas cuadran con precio x cantidad.
+2026-10-05 17:09:38,037 | INFO | src.transform.clean_excel | tipo_pago: 107 nulos etiquetados como 'Desconocido'
+2026-10-05 17:09:38,045 | INFO | src.transform.clean_excel | Ventas plata: 1000 filas (de 1000), rango 2022-04-01 a 2023-03-30
+2026-10-05 17:09:38,055 | INFO | src.transform.clean_excel | Benchmark plata: 214 países (de 214 filas)
+2026-10-05 17:09:38,061 | INFO | src.transform.clean_excel | Guardado data\silver\ventas_silver.csv (1000 filas)
+2026-10-05 17:09:38,065 | INFO | src.transform.clean_excel | Guardado data\silver\benchmark_silver.csv (214 filas)
+2026-10-05 17:09:38,066 | INFO | pipeline | ---- 3. TRANSFORM (oro) ----
+2026-10-05 17:09:38,095 | INFO | src.transform.gold_data | Demanda diaria: 364 días x 7 ítems = 2548 filas (32.3 % con ventas)
+2026-10-05 17:09:38,164 | INFO | src.transform.gold_data | Simulación: se excluyen 49 filas de la primera semana (sin historia para pronosticar)
+2026-10-05 17:09:38,268 | INFO | src.transform.gold_data | Guardado data\gold\hechos_demanda_diaria.csv (2548 filas)
+2026-10-05 17:09:38,272 | INFO | src.transform.gold_data | Guardado data\gold\demanda_dia_franja.csv (35 filas)
+2026-10-05 17:09:38,276 | INFO | src.transform.gold_data | Guardado data\gold\variabilidad_item.csv (7 filas)
+2026-10-05 17:09:38,280 | INFO | src.transform.gold_data | Guardado data\gold\ventas_mensuales.csv (12 filas)
+2026-10-05 17:09:38,283 | INFO | src.transform.gold_data | Guardado data\gold\efecto_calendario.csv (4 filas)
+2026-10-05 17:09:38,287 | INFO | src.transform.gold_data | Guardado data\gold\benchmark_contexto.csv (4 filas)
+2026-10-05 17:09:38,308 | INFO | src.transform.gold_data | Guardado data\gold\merma_simulada_diaria.csv (2499 filas)
+2026-10-05 17:09:38,313 | INFO | src.transform.gold_data | Guardado data\gold\kpis_simulados_resumen.csv (10 filas)
+2026-10-05 17:09:38,317 | INFO | src.transform.gold_data | Guardado data\gold\kpis_simulados_mensual.csv (12 filas)
+2026-10-05 17:09:38,318 | INFO | src.transform.gold_data | KPIs SIMULADOS (costo insumo 35 %, colchón 10 %, historia 4 semanas): CMV 95.29 % | Desviación de demanda 154.80 % | Merma 72.53 % de lo preparado
+2026-10-05 17:09:38,318 | INFO | pipeline | ---- 4. LOAD (PostgreSQL) ----
+2026-10-05 17:09:38,438 | INFO | src.load.load_database | La base de datos 'mermas_etl' ya existe
+2026-10-05 17:09:38,492 | INFO | src.load.load_database | Conectado a PostgreSQL 16.15 (Debian 16.15-1.pgdg13+2) en localhost:5434, base 'mermas_etl'
+2026-10-05 17:09:38,622 | INFO | src.load.load_database | Cargada silver.benchmark (214 filas)
+2026-10-05 17:09:38,980 | INFO | src.load.load_database | Cargada silver.ventas (1000 filas)
+2026-10-05 17:09:39,007 | INFO | src.load.load_database | Cargada gold.benchmark_contexto (4 filas)
+2026-10-05 17:09:39,035 | INFO | src.load.load_database | Cargada gold.demanda_dia_franja (35 filas)
+2026-10-05 17:09:39,056 | INFO | src.load.load_database | Cargada gold.efecto_calendario (4 filas)
+2026-10-05 17:09:39,679 | INFO | src.load.load_database | Cargada gold.hechos_demanda_diaria (2548 filas)
+2026-10-05 17:09:39,702 | INFO | src.load.load_database | Cargada gold.kpis_simulados_mensual (12 filas)
+2026-10-05 17:09:39,726 | INFO | src.load.load_database | Cargada gold.kpis_simulados_resumen (10 filas)
+2026-10-05 17:09:40,846 | INFO | src.load.load_database | Cargada gold.merma_simulada_diaria (2499 filas)
+2026-10-05 17:09:40,872 | INFO | src.load.load_database | Cargada gold.variabilidad_item (7 filas)
+2026-10-05 17:09:40,896 | INFO | src.load.load_database | Cargada gold.ventas_mensuales (12 filas)
+2026-10-05 17:09:40,916 | INFO | src.load.load_database | Verificación OK: 11 tablas con el número de filas esperado
+2026-10-05 17:09:40,917 | INFO | pipeline | ========== Pipeline terminado en 5.0 s ==========

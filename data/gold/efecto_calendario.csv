@@ -1,0 +1,5 @@
+variable,grupo,dias,promedio_unidades_diarias,promedio_monto_diario,diferencia_vs_resto_pct
+es_quincena,No,317,22.35,746.48,0.0
+es_quincena,Sí,47,22.94,821.17,2.64
+es_fin_de_semana,No,260,21.93,743.65,0.0
+es_fin_de_semana,Sí,104,23.65,787.31,7.86

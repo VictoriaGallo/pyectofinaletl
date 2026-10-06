@@ -1,0 +1,21 @@
+# Conexión de Grafana a la base del proyecto (se crea sola al arrancar).
+# Grafana está dentro de Docker, así que llega a PostgreSQL por el nombre del
+# servicio y el puerto INTERNO (postgres:5432), no por localhost ni DB_PORT.
+apiVersion: 1
+
+datasources:
+  - name: PostgreSQL Mermas
+    uid: mermas-pg
+    type: grafana-postgresql-datasource
+    access: proxy
+    url: postgres:5432
+    user: ${DB_USER}
+    isDefault: true
+    editable: true
+    jsonData:
+      database: ${DB_NAME}
+      sslmode: disable
+      postgresVersion: 1600
+      timescaledb: false
+    secureJsonData:
+      password: ${DB_PASSWORD}

@@ -1,0 +1,8 @@
+nombre_item,tipo_item,precio_unitario,dias_periodo,dias_con_venta,unidades_totales,monto_total,media_diaria,desv_diaria,pct_dias_con_venta,cv,participacion_monto_pct,ranking_variabilidad
+Sandwich,Fastfood,60.0,364,109,1097,65820.0,3.01,5.88,29.95,1.95,23.91,1
+Aalopuri,Fastfood,20.0,364,118,1044,20880.0,2.87,5.44,32.42,1.9,7.59,2
+Vadapav,Fastfood,20.0,364,112,1006,20120.0,2.76,5.24,30.77,1.9,7.31,2
+Frankie,Fastfood,50.0,364,115,1150,57500.0,3.16,5.77,31.59,1.83,20.89,4
+Panipuri,Fastfood,20.0,364,118,1226,24520.0,3.37,6.07,32.42,1.8,8.91,5
+Cold coffee,Beverages,40.0,364,124,1361,54440.0,3.74,6.49,34.07,1.74,19.78,6
+Sugarcane juice,Beverages,25.0,364,128,1278,31950.0,3.51,5.84,35.16,1.66,11.61,7

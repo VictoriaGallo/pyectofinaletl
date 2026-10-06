@@ -1,0 +1,2549 @@
+fecha,nombre_item,ordenes,unidades,monto,tipo_item,precio_unitario,periodo,dia_semana,es_fin_de_semana,es_quincena
+2022-04-01,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,True
+2022-04-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Vie,False,True
+2022-04-01,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Vie,False,True
+2022-04-01,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,True
+2022-04-01,Sandwich,1,7,420.0,Fastfood,60.0,2022-04,Vie,False,True
+2022-04-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Vie,False,True
+2022-04-01,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,True
+2022-04-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-02,Cold coffee,1,15,600.0,Beverages,40.0,2022-04,Sáb,True,False
+2022-04-02,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Sáb,True,False
+2022-04-02,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-02,Sandwich,1,15,900.0,Fastfood,60.0,2022-04,Sáb,True,False
+2022-04-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Sáb,True,False
+2022-04-02,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-03,Aalopuri,1,10,200.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-03,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Dom,True,False
+2022-04-03,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Dom,True,False
+2022-04-03,Panipuri,1,11,220.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-03,Sandwich,1,1,60.0,Fastfood,60.0,2022-04,Dom,True,False
+2022-04-03,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Dom,True,False
+2022-04-03,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-04,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-04,Cold coffee,2,19,760.0,Beverages,40.0,2022-04,Lun,False,False
+2022-04-04,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Lun,False,False
+2022-04-04,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-04,Sandwich,2,29,1740.0,Fastfood,60.0,2022-04,Lun,False,False
+2022-04-04,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Lun,False,False
+2022-04-04,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-05,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Mar,False,False
+2022-04-05,Frankie,1,2,100.0,Fastfood,50.0,2022-04,Mar,False,False
+2022-04-05,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-05,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Mar,False,False
+2022-04-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mar,False,False
+2022-04-05,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-06,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-06,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Mié,False,False
+2022-04-06,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Mié,False,False
+2022-04-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Mié,False,False
+2022-04-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mié,False,False
+2022-04-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-07,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-07,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Jue,False,False
+2022-04-07,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Jue,False,False
+2022-04-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-07,Sandwich,2,24,1440.0,Fastfood,60.0,2022-04,Jue,False,False
+2022-04-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Jue,False,False
+2022-04-07,Vadapav,1,3,60.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-08,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Vie,False,False
+2022-04-08,Frankie,1,1,50.0,Fastfood,50.0,2022-04,Vie,False,False
+2022-04-08,Panipuri,1,11,220.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-08,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Vie,False,False
+2022-04-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Vie,False,False
+2022-04-08,Vadapav,1,4,80.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-09,Aalopuri,1,10,200.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-09,Cold coffee,1,6,240.0,Beverages,40.0,2022-04,Sáb,True,False
+2022-04-09,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Sáb,True,False
+2022-04-09,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-09,Sandwich,1,1,60.0,Fastfood,60.0,2022-04,Sáb,True,False
+2022-04-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Sáb,True,False
+2022-04-09,Vadapav,1,12,240.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-10,Aalopuri,1,15,300.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Dom,True,False
+2022-04-10,Frankie,1,4,200.0,Fastfood,50.0,2022-04,Dom,True,False
+2022-04-10,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-10,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Dom,True,False
+2022-04-10,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Dom,True,False
+2022-04-10,Vadapav,1,7,140.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-11,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-11,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Lun,False,False
+2022-04-11,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Lun,False,False
+2022-04-11,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-11,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Lun,False,False
+2022-04-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Lun,False,False
+2022-04-11,Vadapav,1,6,120.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-12,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-12,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Mar,False,False
+2022-04-12,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Mar,False,False
+2022-04-12,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-12,Sandwich,1,1,60.0,Fastfood,60.0,2022-04,Mar,False,False
+2022-04-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mar,False,False
+2022-04-12,Vadapav,1,10,200.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-13,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Mié,False,False
+2022-04-13,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Mié,False,False
+2022-04-13,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Mié,False,False
+2022-04-13,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mié,False,False
+2022-04-13,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-14,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-14,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Jue,False,False
+2022-04-14,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Jue,False,False
+2022-04-14,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-14,Sandwich,1,11,660.0,Fastfood,60.0,2022-04,Jue,False,False
+2022-04-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Jue,False,False
+2022-04-14,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-15,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,True
+2022-04-15,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Vie,False,True
+2022-04-15,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Vie,False,True
+2022-04-15,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,True
+2022-04-15,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Vie,False,True
+2022-04-15,Sugarcane juice,1,3,75.0,Beverages,25.0,2022-04,Vie,False,True
+2022-04-15,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,True
+2022-04-16,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,True
+2022-04-16,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Sáb,True,True
+2022-04-16,Frankie,1,6,300.0,Fastfood,50.0,2022-04,Sáb,True,True
+2022-04-16,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,True
+2022-04-16,Sandwich,1,6,360.0,Fastfood,60.0,2022-04,Sáb,True,True
+2022-04-16,Sugarcane juice,1,3,75.0,Beverages,25.0,2022-04,Sáb,True,True
+2022-04-16,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,True
+2022-04-17,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-17,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Dom,True,False
+2022-04-17,Frankie,1,5,250.0,Fastfood,50.0,2022-04,Dom,True,False
+2022-04-17,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-17,Sandwich,1,12,720.0,Fastfood,60.0,2022-04,Dom,True,False
+2022-04-17,Sugarcane juice,1,11,275.0,Beverages,25.0,2022-04,Dom,True,False
+2022-04-17,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-18,Aalopuri,1,12,240.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Lun,False,False
+2022-04-18,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Lun,False,False
+2022-04-18,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-18,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Lun,False,False
+2022-04-18,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Lun,False,False
+2022-04-18,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-19,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-19,Cold coffee,1,1,40.0,Beverages,40.0,2022-04,Mar,False,False
+2022-04-19,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Mar,False,False
+2022-04-19,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-19,Sandwich,1,4,240.0,Fastfood,60.0,2022-04,Mar,False,False
+2022-04-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mar,False,False
+2022-04-19,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-20,Aalopuri,1,5,100.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-20,Cold coffee,2,16,640.0,Beverages,40.0,2022-04,Mié,False,False
+2022-04-20,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Mié,False,False
+2022-04-20,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-20,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Mié,False,False
+2022-04-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mié,False,False
+2022-04-20,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-21,Aalopuri,1,1,20.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-21,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Jue,False,False
+2022-04-21,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Jue,False,False
+2022-04-21,Panipuri,1,8,160.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-21,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Jue,False,False
+2022-04-21,Sugarcane juice,1,9,225.0,Beverages,25.0,2022-04,Jue,False,False
+2022-04-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-22,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Vie,False,False
+2022-04-22,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Vie,False,False
+2022-04-22,Panipuri,1,14,280.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-22,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Vie,False,False
+2022-04-22,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Vie,False,False
+2022-04-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-23,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Sáb,True,False
+2022-04-23,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Sáb,True,False
+2022-04-23,Panipuri,1,9,180.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-23,Sandwich,1,4,240.0,Fastfood,60.0,2022-04,Sáb,True,False
+2022-04-23,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-04,Sáb,True,False
+2022-04-23,Vadapav,1,13,260.0,Fastfood,20.0,2022-04,Sáb,True,False
+2022-04-24,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-24,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Dom,True,False
+2022-04-24,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Dom,True,False
+2022-04-24,Panipuri,1,3,60.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Dom,True,False
+2022-04-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Dom,True,False
+2022-04-24,Vadapav,2,5,100.0,Fastfood,20.0,2022-04,Dom,True,False
+2022-04-25,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-25,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Lun,False,False
+2022-04-25,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Lun,False,False
+2022-04-25,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-25,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Lun,False,False
+2022-04-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Lun,False,False
+2022-04-25,Vadapav,2,9,180.0,Fastfood,20.0,2022-04,Lun,False,False
+2022-04-26,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-26,Cold coffee,3,14,560.0,Beverages,40.0,2022-04,Mar,False,False
+2022-04-26,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Mar,False,False
+2022-04-26,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-26,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Mar,False,False
+2022-04-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mar,False,False
+2022-04-26,Vadapav,1,13,260.0,Fastfood,20.0,2022-04,Mar,False,False
+2022-04-27,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-27,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Mié,False,False
+2022-04-27,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Mié,False,False
+2022-04-27,Panipuri,2,11,220.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-27,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Mié,False,False
+2022-04-27,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Mié,False,False
+2022-04-27,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Mié,False,False
+2022-04-28,Aalopuri,1,7,140.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-28,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Jue,False,False
+2022-04-28,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Jue,False,False
+2022-04-28,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Jue,False,False
+2022-04-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Jue,False,False
+2022-04-28,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Jue,False,False
+2022-04-29,Aalopuri,1,8,160.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Vie,False,False
+2022-04-29,Frankie,0,0,0.0,Fastfood,50.0,2022-04,Vie,False,False
+2022-04-29,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-04,Vie,False,False
+2022-04-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-04,Vie,False,False
+2022-04-29,Vadapav,0,0,0.0,Fastfood,20.0,2022-04,Vie,False,False
+2022-04-30,Aalopuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,True
+2022-04-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-04,Sáb,True,True
+2022-04-30,Frankie,1,13,650.0,Fastfood,50.0,2022-04,Sáb,True,True
+2022-04-30,Panipuri,0,0,0.0,Fastfood,20.0,2022-04,Sáb,True,True
+2022-04-30,Sandwich,1,10,600.0,Fastfood,60.0,2022-04,Sáb,True,True
+2022-04-30,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-04,Sáb,True,True
+2022-04-30,Vadapav,1,7,140.0,Fastfood,20.0,2022-04,Sáb,True,True
+2022-05-01,Aalopuri,1,13,260.0,Fastfood,20.0,2022-05,Dom,True,True
+2022-05-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Dom,True,True
+2022-05-01,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Dom,True,True
+2022-05-01,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,True
+2022-05-01,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Dom,True,True
+2022-05-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Dom,True,True
+2022-05-01,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,True
+2022-05-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-02,Cold coffee,1,10,400.0,Beverages,40.0,2022-05,Lun,False,False
+2022-05-02,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Lun,False,False
+2022-05-02,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-02,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Lun,False,False
+2022-05-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Lun,False,False
+2022-05-02,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-03,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-03,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mar,False,False
+2022-05-03,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Mar,False,False
+2022-05-03,Panipuri,1,7,140.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-03,Sandwich,1,8,480.0,Fastfood,60.0,2022-05,Mar,False,False
+2022-05-03,Sugarcane juice,1,9,225.0,Beverages,25.0,2022-05,Mar,False,False
+2022-05-03,Vadapav,1,13,260.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-04,Aalopuri,1,11,220.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-04,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mié,False,False
+2022-05-04,Frankie,1,7,350.0,Fastfood,50.0,2022-05,Mié,False,False
+2022-05-04,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-04,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Mié,False,False
+2022-05-04,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-05,Mié,False,False
+2022-05-04,Vadapav,1,3,60.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-05,Cold coffee,2,23,920.0,Beverages,40.0,2022-05,Jue,False,False
+2022-05-05,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Jue,False,False
+2022-05-05,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-05,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Jue,False,False
+2022-05-05,Sugarcane juice,2,13,325.0,Beverages,25.0,2022-05,Jue,False,False
+2022-05-05,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-06,Aalopuri,3,25,500.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-06,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Vie,False,False
+2022-05-06,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Vie,False,False
+2022-05-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Vie,False,False
+2022-05-06,Sugarcane juice,1,12,300.0,Beverages,25.0,2022-05,Vie,False,False
+2022-05-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-07,Aalopuri,1,11,220.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-07,Cold coffee,1,8,320.0,Beverages,40.0,2022-05,Sáb,True,False
+2022-05-07,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Sáb,True,False
+2022-05-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-07,Sandwich,1,10,600.0,Fastfood,60.0,2022-05,Sáb,True,False
+2022-05-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Sáb,True,False
+2022-05-07,Vadapav,1,7,140.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-08,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Dom,True,False
+2022-05-08,Frankie,1,13,650.0,Fastfood,50.0,2022-05,Dom,True,False
+2022-05-08,Panipuri,1,11,220.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-08,Sandwich,1,1,60.0,Fastfood,60.0,2022-05,Dom,True,False
+2022-05-08,Sugarcane juice,3,17,425.0,Beverages,25.0,2022-05,Dom,True,False
+2022-05-08,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-09,Aalopuri,1,8,160.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-09,Cold coffee,3,28,1120.0,Beverages,40.0,2022-05,Lun,False,False
+2022-05-09,Frankie,1,9,450.0,Fastfood,50.0,2022-05,Lun,False,False
+2022-05-09,Panipuri,1,14,280.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-09,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Lun,False,False
+2022-05-09,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-05,Lun,False,False
+2022-05-09,Vadapav,1,15,300.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-10,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mar,False,False
+2022-05-10,Frankie,1,14,700.0,Fastfood,50.0,2022-05,Mar,False,False
+2022-05-10,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-10,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Mar,False,False
+2022-05-10,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Mar,False,False
+2022-05-10,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-11,Aalopuri,1,4,80.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-11,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mié,False,False
+2022-05-11,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Mié,False,False
+2022-05-11,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-11,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Mié,False,False
+2022-05-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Mié,False,False
+2022-05-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-12,Aalopuri,2,15,300.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-12,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Jue,False,False
+2022-05-12,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Jue,False,False
+2022-05-12,Panipuri,1,10,200.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-12,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Jue,False,False
+2022-05-12,Sugarcane juice,1,8,200.0,Beverages,25.0,2022-05,Jue,False,False
+2022-05-12,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-13,Aalopuri,1,15,300.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-13,Cold coffee,1,14,560.0,Beverages,40.0,2022-05,Vie,False,False
+2022-05-13,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Vie,False,False
+2022-05-13,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Vie,False,False
+2022-05-13,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-05,Vie,False,False
+2022-05-13,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-14,Aalopuri,1,7,140.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-14,Cold coffee,1,10,400.0,Beverages,40.0,2022-05,Sáb,True,False
+2022-05-14,Frankie,1,5,250.0,Fastfood,50.0,2022-05,Sáb,True,False
+2022-05-14,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-14,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Sáb,True,False
+2022-05-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Sáb,True,False
+2022-05-14,Vadapav,1,2,40.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-15,Aalopuri,2,21,420.0,Fastfood,20.0,2022-05,Dom,True,True
+2022-05-15,Cold coffee,1,2,80.0,Beverages,40.0,2022-05,Dom,True,True
+2022-05-15,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Dom,True,True
+2022-05-15,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,True
+2022-05-15,Sandwich,1,7,420.0,Fastfood,60.0,2022-05,Dom,True,True
+2022-05-15,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Dom,True,True
+2022-05-15,Vadapav,1,15,300.0,Fastfood,20.0,2022-05,Dom,True,True
+2022-05-16,Aalopuri,1,2,40.0,Fastfood,20.0,2022-05,Lun,False,True
+2022-05-16,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Lun,False,True
+2022-05-16,Frankie,1,15,750.0,Fastfood,50.0,2022-05,Lun,False,True
+2022-05-16,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,True
+2022-05-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Lun,False,True
+2022-05-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Lun,False,True
+2022-05-16,Vadapav,2,15,300.0,Fastfood,20.0,2022-05,Lun,False,True
+2022-05-17,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-17,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mar,False,False
+2022-05-17,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Mar,False,False
+2022-05-17,Panipuri,1,7,140.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-17,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Mar,False,False
+2022-05-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Mar,False,False
+2022-05-17,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-18,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mié,False,False
+2022-05-18,Frankie,1,13,650.0,Fastfood,50.0,2022-05,Mié,False,False
+2022-05-18,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-18,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Mié,False,False
+2022-05-18,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Mié,False,False
+2022-05-18,Vadapav,1,4,80.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-19,Aalopuri,1,7,140.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-19,Cold coffee,1,3,120.0,Beverages,40.0,2022-05,Jue,False,False
+2022-05-19,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Jue,False,False
+2022-05-19,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-19,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Jue,False,False
+2022-05-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Jue,False,False
+2022-05-19,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-20,Aalopuri,1,3,60.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-20,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Vie,False,False
+2022-05-20,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Vie,False,False
+2022-05-20,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-20,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Vie,False,False
+2022-05-20,Sugarcane juice,3,18,450.0,Beverages,25.0,2022-05,Vie,False,False
+2022-05-20,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-21,Aalopuri,2,25,500.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-21,Cold coffee,1,13,520.0,Beverages,40.0,2022-05,Sáb,True,False
+2022-05-21,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Sáb,True,False
+2022-05-21,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-21,Sandwich,1,2,120.0,Fastfood,60.0,2022-05,Sáb,True,False
+2022-05-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Sáb,True,False
+2022-05-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-22,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Dom,True,False
+2022-05-22,Frankie,1,12,600.0,Fastfood,50.0,2022-05,Dom,True,False
+2022-05-22,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-22,Sandwich,2,26,1560.0,Fastfood,60.0,2022-05,Dom,True,False
+2022-05-22,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Dom,True,False
+2022-05-22,Vadapav,1,8,160.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-23,Aalopuri,1,3,60.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Lun,False,False
+2022-05-23,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Lun,False,False
+2022-05-23,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Lun,False,False
+2022-05-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Lun,False,False
+2022-05-23,Vadapav,1,3,60.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-24,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-24,Cold coffee,1,3,120.0,Beverages,40.0,2022-05,Mar,False,False
+2022-05-24,Frankie,1,13,650.0,Fastfood,50.0,2022-05,Mar,False,False
+2022-05-24,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Mar,False,False
+2022-05-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Mar,False,False
+2022-05-24,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,False
+2022-05-25,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-25,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mié,False,False
+2022-05-25,Frankie,1,11,550.0,Fastfood,50.0,2022-05,Mié,False,False
+2022-05-25,Panipuri,1,2,40.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-25,Sandwich,1,2,120.0,Fastfood,60.0,2022-05,Mié,False,False
+2022-05-25,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-05,Mié,False,False
+2022-05-25,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Mié,False,False
+2022-05-26,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-26,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Jue,False,False
+2022-05-26,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Jue,False,False
+2022-05-26,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-26,Sandwich,1,3,180.0,Fastfood,60.0,2022-05,Jue,False,False
+2022-05-26,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-05,Jue,False,False
+2022-05-26,Vadapav,1,1,20.0,Fastfood,20.0,2022-05,Jue,False,False
+2022-05-27,Aalopuri,1,10,200.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-27,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Vie,False,False
+2022-05-27,Frankie,1,7,350.0,Fastfood,50.0,2022-05,Vie,False,False
+2022-05-27,Panipuri,1,14,280.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-27,Sandwich,2,16,960.0,Fastfood,60.0,2022-05,Vie,False,False
+2022-05-27,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Vie,False,False
+2022-05-27,Vadapav,1,13,260.0,Fastfood,20.0,2022-05,Vie,False,False
+2022-05-28,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-28,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Sáb,True,False
+2022-05-28,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Sáb,True,False
+2022-05-28,Panipuri,1,5,100.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Sáb,True,False
+2022-05-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Sáb,True,False
+2022-05-28,Vadapav,1,15,300.0,Fastfood,20.0,2022-05,Sáb,True,False
+2022-05-29,Aalopuri,2,11,220.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Dom,True,False
+2022-05-29,Frankie,0,0,0.0,Fastfood,50.0,2022-05,Dom,True,False
+2022-05-29,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Dom,True,False
+2022-05-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Dom,True,False
+2022-05-29,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Dom,True,False
+2022-05-30,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-30,Cold coffee,1,3,120.0,Beverages,40.0,2022-05,Lun,False,False
+2022-05-30,Frankie,1,10,500.0,Fastfood,50.0,2022-05,Lun,False,False
+2022-05-30,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-30,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Lun,False,False
+2022-05-30,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Lun,False,False
+2022-05-30,Vadapav,0,0,0.0,Fastfood,20.0,2022-05,Lun,False,False
+2022-05-31,Aalopuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,True
+2022-05-31,Cold coffee,0,0,0.0,Beverages,40.0,2022-05,Mar,False,True
+2022-05-31,Frankie,1,8,400.0,Fastfood,50.0,2022-05,Mar,False,True
+2022-05-31,Panipuri,0,0,0.0,Fastfood,20.0,2022-05,Mar,False,True
+2022-05-31,Sandwich,0,0,0.0,Fastfood,60.0,2022-05,Mar,False,True
+2022-05-31,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-05,Mar,False,True
+2022-05-31,Vadapav,1,2,40.0,Fastfood,20.0,2022-05,Mar,False,True
+2022-06-01,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,True
+2022-06-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mié,False,True
+2022-06-01,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Mié,False,True
+2022-06-01,Panipuri,1,6,120.0,Fastfood,20.0,2022-06,Mié,False,True
+2022-06-01,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mié,False,True
+2022-06-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Mié,False,True
+2022-06-01,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,True
+2022-06-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-02,Cold coffee,1,4,160.0,Beverages,40.0,2022-06,Jue,False,False
+2022-06-02,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Jue,False,False
+2022-06-02,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-02,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Jue,False,False
+2022-06-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Jue,False,False
+2022-06-02,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-03,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-03,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Vie,False,False
+2022-06-03,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Vie,False,False
+2022-06-03,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-03,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Vie,False,False
+2022-06-03,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Vie,False,False
+2022-06-03,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-04,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-04,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Sáb,True,False
+2022-06-04,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Sáb,True,False
+2022-06-04,Panipuri,1,2,40.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-04,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Sáb,True,False
+2022-06-04,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Sáb,True,False
+2022-06-04,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-05,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Dom,True,False
+2022-06-05,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Dom,True,False
+2022-06-05,Panipuri,1,7,140.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-05,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Dom,True,False
+2022-06-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Dom,True,False
+2022-06-05,Vadapav,1,3,60.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-06,Aalopuri,1,11,220.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-06,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Lun,False,False
+2022-06-06,Frankie,1,9,450.0,Fastfood,50.0,2022-06,Lun,False,False
+2022-06-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Lun,False,False
+2022-06-06,Sugarcane juice,2,6,150.0,Beverages,25.0,2022-06,Lun,False,False
+2022-06-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-07,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-07,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mar,False,False
+2022-06-07,Frankie,1,8,400.0,Fastfood,50.0,2022-06,Mar,False,False
+2022-06-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-07,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mar,False,False
+2022-06-07,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-06,Mar,False,False
+2022-06-07,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-08,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mié,False,False
+2022-06-08,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Mié,False,False
+2022-06-08,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-08,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mié,False,False
+2022-06-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Mié,False,False
+2022-06-08,Vadapav,1,14,280.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-09,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-09,Cold coffee,2,13,520.0,Beverages,40.0,2022-06,Jue,False,False
+2022-06-09,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Jue,False,False
+2022-06-09,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-09,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Jue,False,False
+2022-06-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Jue,False,False
+2022-06-09,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-10,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-10,Cold coffee,1,8,320.0,Beverages,40.0,2022-06,Vie,False,False
+2022-06-10,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Vie,False,False
+2022-06-10,Panipuri,1,1,20.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-10,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Vie,False,False
+2022-06-10,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Vie,False,False
+2022-06-10,Vadapav,1,5,100.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-11,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-11,Cold coffee,1,2,80.0,Beverages,40.0,2022-06,Sáb,True,False
+2022-06-11,Frankie,1,13,650.0,Fastfood,50.0,2022-06,Sáb,True,False
+2022-06-11,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-11,Sandwich,1,6,360.0,Fastfood,60.0,2022-06,Sáb,True,False
+2022-06-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Sáb,True,False
+2022-06-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-12,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-12,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Dom,True,False
+2022-06-12,Frankie,1,13,650.0,Fastfood,50.0,2022-06,Dom,True,False
+2022-06-12,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-12,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Dom,True,False
+2022-06-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Dom,True,False
+2022-06-12,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-13,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Lun,False,False
+2022-06-13,Frankie,2,6,300.0,Fastfood,50.0,2022-06,Lun,False,False
+2022-06-13,Panipuri,2,8,160.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Lun,False,False
+2022-06-13,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Lun,False,False
+2022-06-13,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-14,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-14,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mar,False,False
+2022-06-14,Frankie,1,1,50.0,Fastfood,50.0,2022-06,Mar,False,False
+2022-06-14,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-14,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mar,False,False
+2022-06-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Mar,False,False
+2022-06-14,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-15,Aalopuri,1,4,80.0,Fastfood,20.0,2022-06,Mié,False,True
+2022-06-15,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mié,False,True
+2022-06-15,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Mié,False,True
+2022-06-15,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,True
+2022-06-15,Sandwich,1,13,780.0,Fastfood,60.0,2022-06,Mié,False,True
+2022-06-15,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Mié,False,True
+2022-06-15,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,True
+2022-06-16,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,True
+2022-06-16,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Jue,False,True
+2022-06-16,Frankie,2,12,600.0,Fastfood,50.0,2022-06,Jue,False,True
+2022-06-16,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,True
+2022-06-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Jue,False,True
+2022-06-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Jue,False,True
+2022-06-16,Vadapav,1,3,60.0,Fastfood,20.0,2022-06,Jue,False,True
+2022-06-17,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-17,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Vie,False,False
+2022-06-17,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Vie,False,False
+2022-06-17,Panipuri,1,12,240.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-17,Sandwich,1,15,900.0,Fastfood,60.0,2022-06,Vie,False,False
+2022-06-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Vie,False,False
+2022-06-17,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-18,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Sáb,True,False
+2022-06-18,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Sáb,True,False
+2022-06-18,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-18,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Sáb,True,False
+2022-06-18,Sugarcane juice,3,19,475.0,Beverages,25.0,2022-06,Sáb,True,False
+2022-06-18,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-19,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-19,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Dom,True,False
+2022-06-19,Frankie,1,6,300.0,Fastfood,50.0,2022-06,Dom,True,False
+2022-06-19,Panipuri,1,2,40.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-19,Sandwich,1,10,600.0,Fastfood,60.0,2022-06,Dom,True,False
+2022-06-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Dom,True,False
+2022-06-19,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-20,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-20,Cold coffee,1,5,200.0,Beverages,40.0,2022-06,Lun,False,False
+2022-06-20,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Lun,False,False
+2022-06-20,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-20,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Lun,False,False
+2022-06-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Lun,False,False
+2022-06-20,Vadapav,2,15,300.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-21,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-21,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mar,False,False
+2022-06-21,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Mar,False,False
+2022-06-21,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-21,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mar,False,False
+2022-06-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Mar,False,False
+2022-06-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-22,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mié,False,False
+2022-06-22,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Mié,False,False
+2022-06-22,Panipuri,1,4,80.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-22,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mié,False,False
+2022-06-22,Sugarcane juice,1,15,375.0,Beverages,25.0,2022-06,Mié,False,False
+2022-06-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-23,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Jue,False,False
+2022-06-23,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Jue,False,False
+2022-06-23,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Jue,False,False
+2022-06-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Jue,False,False
+2022-06-23,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,False
+2022-06-24,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-24,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Vie,False,False
+2022-06-24,Frankie,1,7,350.0,Fastfood,50.0,2022-06,Vie,False,False
+2022-06-24,Panipuri,1,9,180.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Vie,False,False
+2022-06-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Vie,False,False
+2022-06-24,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Vie,False,False
+2022-06-25,Aalopuri,1,2,40.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-25,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Sáb,True,False
+2022-06-25,Frankie,1,10,500.0,Fastfood,50.0,2022-06,Sáb,True,False
+2022-06-25,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-25,Sandwich,1,3,180.0,Fastfood,60.0,2022-06,Sáb,True,False
+2022-06-25,Sugarcane juice,2,19,475.0,Beverages,25.0,2022-06,Sáb,True,False
+2022-06-25,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Sáb,True,False
+2022-06-26,Aalopuri,1,15,300.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-26,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Dom,True,False
+2022-06-26,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Dom,True,False
+2022-06-26,Panipuri,1,9,180.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-26,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Dom,True,False
+2022-06-26,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-06,Dom,True,False
+2022-06-26,Vadapav,1,12,240.0,Fastfood,20.0,2022-06,Dom,True,False
+2022-06-27,Aalopuri,1,8,160.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-27,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Lun,False,False
+2022-06-27,Frankie,1,10,500.0,Fastfood,50.0,2022-06,Lun,False,False
+2022-06-27,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-27,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Lun,False,False
+2022-06-27,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Lun,False,False
+2022-06-27,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Lun,False,False
+2022-06-28,Aalopuri,1,3,60.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-28,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Mar,False,False
+2022-06-28,Frankie,1,13,650.0,Fastfood,50.0,2022-06,Mar,False,False
+2022-06-28,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mar,False,False
+2022-06-28,Sugarcane juice,1,2,50.0,Beverages,25.0,2022-06,Mar,False,False
+2022-06-28,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mar,False,False
+2022-06-29,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-29,Cold coffee,1,14,560.0,Beverages,40.0,2022-06,Mié,False,False
+2022-06-29,Frankie,0,0,0.0,Fastfood,50.0,2022-06,Mié,False,False
+2022-06-29,Panipuri,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-06,Mié,False,False
+2022-06-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-06,Mié,False,False
+2022-06-29,Vadapav,0,0,0.0,Fastfood,20.0,2022-06,Mié,False,False
+2022-06-30,Aalopuri,0,0,0.0,Fastfood,20.0,2022-06,Jue,False,True
+2022-06-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-06,Jue,False,True
+2022-06-30,Frankie,2,20,1000.0,Fastfood,50.0,2022-06,Jue,False,True
+2022-06-30,Panipuri,1,8,160.0,Fastfood,20.0,2022-06,Jue,False,True
+2022-06-30,Sandwich,2,17,1020.0,Fastfood,60.0,2022-06,Jue,False,True
+2022-06-30,Sugarcane juice,1,12,300.0,Beverages,25.0,2022-06,Jue,False,True
+2022-06-30,Vadapav,1,6,120.0,Fastfood,20.0,2022-06,Jue,False,True
+2022-07-01,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,True
+2022-07-01,Cold coffee,2,19,760.0,Beverages,40.0,2022-07,Vie,False,True
+2022-07-01,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Vie,False,True
+2022-07-01,Panipuri,1,10,200.0,Fastfood,20.0,2022-07,Vie,False,True
+2022-07-01,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Vie,False,True
+2022-07-01,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-07,Vie,False,True
+2022-07-01,Vadapav,1,5,100.0,Fastfood,20.0,2022-07,Vie,False,True
+2022-07-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-02,Cold coffee,2,11,440.0,Beverages,40.0,2022-07,Sáb,True,False
+2022-07-02,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Sáb,True,False
+2022-07-02,Panipuri,2,15,300.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-02,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Sáb,True,False
+2022-07-02,Sugarcane juice,2,11,275.0,Beverages,25.0,2022-07,Sáb,True,False
+2022-07-02,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-03,Aalopuri,1,13,260.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-03,Cold coffee,1,2,80.0,Beverages,40.0,2022-07,Dom,True,False
+2022-07-03,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Dom,True,False
+2022-07-03,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-03,Sandwich,1,2,120.0,Fastfood,60.0,2022-07,Dom,True,False
+2022-07-03,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Dom,True,False
+2022-07-03,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-04,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-04,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Lun,False,False
+2022-07-04,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Lun,False,False
+2022-07-04,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-04,Sandwich,1,10,600.0,Fastfood,60.0,2022-07,Lun,False,False
+2022-07-04,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-07,Lun,False,False
+2022-07-04,Vadapav,2,20,400.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-05,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mar,False,False
+2022-07-05,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Mar,False,False
+2022-07-05,Panipuri,1,15,300.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-05,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Mar,False,False
+2022-07-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Mar,False,False
+2022-07-05,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-06,Aalopuri,1,2,40.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-06,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mié,False,False
+2022-07-06,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Mié,False,False
+2022-07-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-06,Sandwich,1,1,60.0,Fastfood,60.0,2022-07,Mié,False,False
+2022-07-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Mié,False,False
+2022-07-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-07,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-07,Cold coffee,1,10,400.0,Beverages,40.0,2022-07,Jue,False,False
+2022-07-07,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Jue,False,False
+2022-07-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-07,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Jue,False,False
+2022-07-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Jue,False,False
+2022-07-07,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-08,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Vie,False,False
+2022-07-08,Frankie,1,5,250.0,Fastfood,50.0,2022-07,Vie,False,False
+2022-07-08,Panipuri,1,10,200.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-08,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Vie,False,False
+2022-07-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Vie,False,False
+2022-07-08,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-09,Aalopuri,1,1,20.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-09,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Sáb,True,False
+2022-07-09,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Sáb,True,False
+2022-07-09,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-09,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Sáb,True,False
+2022-07-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Sáb,True,False
+2022-07-09,Vadapav,1,8,160.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-10,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Dom,True,False
+2022-07-10,Frankie,2,15,750.0,Fastfood,50.0,2022-07,Dom,True,False
+2022-07-10,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-10,Sandwich,1,7,420.0,Fastfood,60.0,2022-07,Dom,True,False
+2022-07-10,Sugarcane juice,1,5,125.0,Beverages,25.0,2022-07,Dom,True,False
+2022-07-10,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-11,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-11,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Lun,False,False
+2022-07-11,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Lun,False,False
+2022-07-11,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-11,Sandwich,2,25,1500.0,Fastfood,60.0,2022-07,Lun,False,False
+2022-07-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Lun,False,False
+2022-07-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-12,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-12,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mar,False,False
+2022-07-12,Frankie,1,13,650.0,Fastfood,50.0,2022-07,Mar,False,False
+2022-07-12,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-12,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Mar,False,False
+2022-07-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Mar,False,False
+2022-07-12,Vadapav,1,8,160.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-13,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mié,False,False
+2022-07-13,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Mié,False,False
+2022-07-13,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Mié,False,False
+2022-07-13,Sugarcane juice,1,12,300.0,Beverages,25.0,2022-07,Mié,False,False
+2022-07-13,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-14,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-14,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Jue,False,False
+2022-07-14,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Jue,False,False
+2022-07-14,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-14,Sandwich,1,12,720.0,Fastfood,60.0,2022-07,Jue,False,False
+2022-07-14,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-07,Jue,False,False
+2022-07-14,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-15,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,True
+2022-07-15,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Vie,False,True
+2022-07-15,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Vie,False,True
+2022-07-15,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,True
+2022-07-15,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Vie,False,True
+2022-07-15,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Vie,False,True
+2022-07-15,Vadapav,1,6,120.0,Fastfood,20.0,2022-07,Vie,False,True
+2022-07-16,Aalopuri,1,5,100.0,Fastfood,20.0,2022-07,Sáb,True,True
+2022-07-16,Cold coffee,2,10,400.0,Beverages,40.0,2022-07,Sáb,True,True
+2022-07-16,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Sáb,True,True
+2022-07-16,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,True
+2022-07-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Sáb,True,True
+2022-07-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Sáb,True,True
+2022-07-16,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,True
+2022-07-17,Aalopuri,1,12,240.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-17,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Dom,True,False
+2022-07-17,Frankie,2,6,300.0,Fastfood,50.0,2022-07,Dom,True,False
+2022-07-17,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-17,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Dom,True,False
+2022-07-17,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-07,Dom,True,False
+2022-07-17,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-18,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Lun,False,False
+2022-07-18,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Lun,False,False
+2022-07-18,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-18,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Lun,False,False
+2022-07-18,Sugarcane juice,2,27,675.0,Beverages,25.0,2022-07,Lun,False,False
+2022-07-18,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-19,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-19,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mar,False,False
+2022-07-19,Frankie,1,3,150.0,Fastfood,50.0,2022-07,Mar,False,False
+2022-07-19,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-19,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Mar,False,False
+2022-07-19,Sugarcane juice,2,23,575.0,Beverages,25.0,2022-07,Mar,False,False
+2022-07-19,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-20,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-20,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mié,False,False
+2022-07-20,Frankie,1,6,300.0,Fastfood,50.0,2022-07,Mié,False,False
+2022-07-20,Panipuri,1,3,60.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-20,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Mié,False,False
+2022-07-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Mié,False,False
+2022-07-20,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-21,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-21,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Jue,False,False
+2022-07-21,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Jue,False,False
+2022-07-21,Panipuri,2,12,240.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-21,Sandwich,1,7,420.0,Fastfood,60.0,2022-07,Jue,False,False
+2022-07-21,Sugarcane juice,1,4,100.0,Beverages,25.0,2022-07,Jue,False,False
+2022-07-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-22,Aalopuri,1,1,20.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Vie,False,False
+2022-07-22,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Vie,False,False
+2022-07-22,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-22,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Vie,False,False
+2022-07-22,Sugarcane juice,1,5,125.0,Beverages,25.0,2022-07,Vie,False,False
+2022-07-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-23,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Sáb,True,False
+2022-07-23,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Sáb,True,False
+2022-07-23,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Sáb,True,False
+2022-07-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Sáb,True,False
+2022-07-23,Vadapav,1,10,200.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-24,Aalopuri,1,12,240.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-24,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Dom,True,False
+2022-07-24,Frankie,1,10,500.0,Fastfood,50.0,2022-07,Dom,True,False
+2022-07-24,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Dom,True,False
+2022-07-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Dom,True,False
+2022-07-24,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,False
+2022-07-25,Aalopuri,1,4,80.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-25,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Lun,False,False
+2022-07-25,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Lun,False,False
+2022-07-25,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-25,Sandwich,1,9,540.0,Fastfood,60.0,2022-07,Lun,False,False
+2022-07-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Lun,False,False
+2022-07-25,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Lun,False,False
+2022-07-26,Aalopuri,1,13,260.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-26,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mar,False,False
+2022-07-26,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Mar,False,False
+2022-07-26,Panipuri,1,13,260.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-26,Sandwich,1,9,540.0,Fastfood,60.0,2022-07,Mar,False,False
+2022-07-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Mar,False,False
+2022-07-26,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Mar,False,False
+2022-07-27,Aalopuri,1,4,80.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-27,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Mié,False,False
+2022-07-27,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Mié,False,False
+2022-07-27,Panipuri,2,16,320.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-27,Sandwich,1,8,480.0,Fastfood,60.0,2022-07,Mié,False,False
+2022-07-27,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Mié,False,False
+2022-07-27,Vadapav,1,6,120.0,Fastfood,20.0,2022-07,Mié,False,False
+2022-07-28,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-28,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Jue,False,False
+2022-07-28,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Jue,False,False
+2022-07-28,Panipuri,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Jue,False,False
+2022-07-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Jue,False,False
+2022-07-28,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Jue,False,False
+2022-07-29,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Vie,False,False
+2022-07-29,Frankie,1,5,250.0,Fastfood,50.0,2022-07,Vie,False,False
+2022-07-29,Panipuri,1,5,100.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Vie,False,False
+2022-07-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Vie,False,False
+2022-07-29,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Vie,False,False
+2022-07-30,Aalopuri,1,9,180.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-07,Sáb,True,False
+2022-07-30,Frankie,0,0,0.0,Fastfood,50.0,2022-07,Sáb,True,False
+2022-07-30,Panipuri,1,12,240.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-30,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Sáb,True,False
+2022-07-30,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-07,Sáb,True,False
+2022-07-30,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Sáb,True,False
+2022-07-31,Aalopuri,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,True
+2022-07-31,Cold coffee,1,9,360.0,Beverages,40.0,2022-07,Dom,True,True
+2022-07-31,Frankie,1,7,350.0,Fastfood,50.0,2022-07,Dom,True,True
+2022-07-31,Panipuri,1,5,100.0,Fastfood,20.0,2022-07,Dom,True,True
+2022-07-31,Sandwich,0,0,0.0,Fastfood,60.0,2022-07,Dom,True,True
+2022-07-31,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-07,Dom,True,True
+2022-07-31,Vadapav,0,0,0.0,Fastfood,20.0,2022-07,Dom,True,True
+2022-08-01,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,True
+2022-08-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Lun,False,True
+2022-08-01,Frankie,1,5,250.0,Fastfood,50.0,2022-08,Lun,False,True
+2022-08-01,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,True
+2022-08-01,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Lun,False,True
+2022-08-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Lun,False,True
+2022-08-01,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,True
+2022-08-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-02,Cold coffee,2,15,600.0,Beverages,40.0,2022-08,Mar,False,False
+2022-08-02,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mar,False,False
+2022-08-02,Panipuri,1,4,80.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-02,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Mar,False,False
+2022-08-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Mar,False,False
+2022-08-02,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-03,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-03,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Mié,False,False
+2022-08-03,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mié,False,False
+2022-08-03,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-03,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Mié,False,False
+2022-08-03,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-08,Mié,False,False
+2022-08-03,Vadapav,1,1,20.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-04,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-04,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Jue,False,False
+2022-08-04,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Jue,False,False
+2022-08-04,Panipuri,2,15,300.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-04,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Jue,False,False
+2022-08-04,Sugarcane juice,1,9,225.0,Beverages,25.0,2022-08,Jue,False,False
+2022-08-04,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-05,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Vie,False,False
+2022-08-05,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Vie,False,False
+2022-08-05,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-05,Sandwich,1,9,540.0,Fastfood,60.0,2022-08,Vie,False,False
+2022-08-05,Sugarcane juice,1,5,125.0,Beverages,25.0,2022-08,Vie,False,False
+2022-08-05,Vadapav,1,15,300.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-06,Aalopuri,1,3,60.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-06,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Sáb,True,False
+2022-08-06,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Sáb,True,False
+2022-08-06,Panipuri,1,5,100.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Sáb,True,False
+2022-08-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Sáb,True,False
+2022-08-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-07,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-07,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Dom,True,False
+2022-08-07,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Dom,True,False
+2022-08-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-07,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Dom,True,False
+2022-08-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Dom,True,False
+2022-08-07,Vadapav,1,11,220.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-08,Cold coffee,1,12,480.0,Beverages,40.0,2022-08,Lun,False,False
+2022-08-08,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Lun,False,False
+2022-08-08,Panipuri,1,5,100.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-08,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Lun,False,False
+2022-08-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Lun,False,False
+2022-08-08,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-09,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-09,Cold coffee,1,15,600.0,Beverages,40.0,2022-08,Mar,False,False
+2022-08-09,Frankie,1,4,200.0,Fastfood,50.0,2022-08,Mar,False,False
+2022-08-09,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-09,Sandwich,2,10,600.0,Fastfood,60.0,2022-08,Mar,False,False
+2022-08-09,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-08,Mar,False,False
+2022-08-09,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-10,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Mié,False,False
+2022-08-10,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mié,False,False
+2022-08-10,Panipuri,3,19,380.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-10,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Mié,False,False
+2022-08-10,Sugarcane juice,2,21,525.0,Beverages,25.0,2022-08,Mié,False,False
+2022-08-10,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-11,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-11,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Jue,False,False
+2022-08-11,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Jue,False,False
+2022-08-11,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-11,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Jue,False,False
+2022-08-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Jue,False,False
+2022-08-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-12,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-12,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Vie,False,False
+2022-08-12,Frankie,1,15,750.0,Fastfood,50.0,2022-08,Vie,False,False
+2022-08-12,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-12,Sandwich,1,6,360.0,Fastfood,60.0,2022-08,Vie,False,False
+2022-08-12,Sugarcane juice,1,15,375.0,Beverages,25.0,2022-08,Vie,False,False
+2022-08-12,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-13,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Sáb,True,False
+2022-08-13,Frankie,1,10,500.0,Fastfood,50.0,2022-08,Sáb,True,False
+2022-08-13,Panipuri,1,12,240.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Sáb,True,False
+2022-08-13,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-08,Sáb,True,False
+2022-08-13,Vadapav,1,6,120.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-14,Aalopuri,1,10,200.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-14,Cold coffee,1,7,280.0,Beverages,40.0,2022-08,Dom,True,False
+2022-08-14,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Dom,True,False
+2022-08-14,Panipuri,1,11,220.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-14,Sandwich,2,15,900.0,Fastfood,60.0,2022-08,Dom,True,False
+2022-08-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Dom,True,False
+2022-08-14,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-15,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,True
+2022-08-15,Cold coffee,1,10,400.0,Beverages,40.0,2022-08,Lun,False,True
+2022-08-15,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Lun,False,True
+2022-08-15,Panipuri,2,20,400.0,Fastfood,20.0,2022-08,Lun,False,True
+2022-08-15,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Lun,False,True
+2022-08-15,Sugarcane juice,1,6,150.0,Beverages,25.0,2022-08,Lun,False,True
+2022-08-15,Vadapav,1,6,120.0,Fastfood,20.0,2022-08,Lun,False,True
+2022-08-16,Aalopuri,1,11,220.0,Fastfood,20.0,2022-08,Mar,False,True
+2022-08-16,Cold coffee,1,9,360.0,Beverages,40.0,2022-08,Mar,False,True
+2022-08-16,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mar,False,True
+2022-08-16,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,True
+2022-08-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Mar,False,True
+2022-08-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Mar,False,True
+2022-08-16,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,True
+2022-08-17,Aalopuri,1,13,260.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-17,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Mié,False,False
+2022-08-17,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mié,False,False
+2022-08-17,Panipuri,2,19,380.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-17,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Mié,False,False
+2022-08-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Mié,False,False
+2022-08-17,Vadapav,1,9,180.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-18,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Jue,False,False
+2022-08-18,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Jue,False,False
+2022-08-18,Panipuri,1,6,120.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-18,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Jue,False,False
+2022-08-18,Sugarcane juice,1,4,100.0,Beverages,25.0,2022-08,Jue,False,False
+2022-08-18,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-19,Aalopuri,1,3,60.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-19,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Vie,False,False
+2022-08-19,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Vie,False,False
+2022-08-19,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-19,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Vie,False,False
+2022-08-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Vie,False,False
+2022-08-19,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-20,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-20,Cold coffee,2,20,800.0,Beverages,40.0,2022-08,Sáb,True,False
+2022-08-20,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Sáb,True,False
+2022-08-20,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-20,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Sáb,True,False
+2022-08-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Sáb,True,False
+2022-08-20,Vadapav,1,3,60.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-21,Aalopuri,1,12,240.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-21,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Dom,True,False
+2022-08-21,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Dom,True,False
+2022-08-21,Panipuri,1,4,80.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-21,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Dom,True,False
+2022-08-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Dom,True,False
+2022-08-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-22,Aalopuri,1,6,120.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Lun,False,False
+2022-08-22,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Lun,False,False
+2022-08-22,Panipuri,1,11,220.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-22,Sandwich,2,22,1320.0,Fastfood,60.0,2022-08,Lun,False,False
+2022-08-22,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-08,Lun,False,False
+2022-08-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-23,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Mar,False,False
+2022-08-23,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mar,False,False
+2022-08-23,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Mar,False,False
+2022-08-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Mar,False,False
+2022-08-23,Vadapav,1,15,300.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-24,Aalopuri,2,20,400.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-24,Cold coffee,1,8,320.0,Beverages,40.0,2022-08,Mié,False,False
+2022-08-24,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mié,False,False
+2022-08-24,Panipuri,1,10,200.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Mié,False,False
+2022-08-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Mié,False,False
+2022-08-24,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Mié,False,False
+2022-08-25,Aalopuri,1,5,100.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-25,Cold coffee,1,5,200.0,Beverages,40.0,2022-08,Jue,False,False
+2022-08-25,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Jue,False,False
+2022-08-25,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-25,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Jue,False,False
+2022-08-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Jue,False,False
+2022-08-25,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Jue,False,False
+2022-08-26,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-26,Cold coffee,2,21,840.0,Beverages,40.0,2022-08,Vie,False,False
+2022-08-26,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Vie,False,False
+2022-08-26,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-26,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Vie,False,False
+2022-08-26,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-08,Vie,False,False
+2022-08-26,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Vie,False,False
+2022-08-27,Aalopuri,2,23,460.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-27,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Sáb,True,False
+2022-08-27,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Sáb,True,False
+2022-08-27,Panipuri,1,5,100.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-27,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Sáb,True,False
+2022-08-27,Sugarcane juice,1,6,150.0,Beverages,25.0,2022-08,Sáb,True,False
+2022-08-27,Vadapav,1,5,100.0,Fastfood,20.0,2022-08,Sáb,True,False
+2022-08-28,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-28,Cold coffee,1,12,480.0,Beverages,40.0,2022-08,Dom,True,False
+2022-08-28,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Dom,True,False
+2022-08-28,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Dom,True,False
+2022-08-28,Sugarcane juice,1,15,375.0,Beverages,25.0,2022-08,Dom,True,False
+2022-08-28,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Dom,True,False
+2022-08-29,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Lun,False,False
+2022-08-29,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Lun,False,False
+2022-08-29,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-08,Lun,False,False
+2022-08-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Lun,False,False
+2022-08-29,Vadapav,0,0,0.0,Fastfood,20.0,2022-08,Lun,False,False
+2022-08-30,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-08,Mar,False,False
+2022-08-30,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mar,False,False
+2022-08-30,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-30,Sandwich,1,6,360.0,Fastfood,60.0,2022-08,Mar,False,False
+2022-08-30,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Mar,False,False
+2022-08-30,Vadapav,1,14,280.0,Fastfood,20.0,2022-08,Mar,False,False
+2022-08-31,Aalopuri,0,0,0.0,Fastfood,20.0,2022-08,Mié,False,True
+2022-08-31,Cold coffee,4,17,680.0,Beverages,40.0,2022-08,Mié,False,True
+2022-08-31,Frankie,0,0,0.0,Fastfood,50.0,2022-08,Mié,False,True
+2022-08-31,Panipuri,0,0,0.0,Fastfood,20.0,2022-08,Mié,False,True
+2022-08-31,Sandwich,1,1,60.0,Fastfood,60.0,2022-08,Mié,False,True
+2022-08-31,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-08,Mié,False,True
+2022-08-31,Vadapav,3,23,460.0,Fastfood,20.0,2022-08,Mié,False,True
+2022-09-01,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,True
+2022-09-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Jue,False,True
+2022-09-01,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Jue,False,True
+2022-09-01,Panipuri,1,2,40.0,Fastfood,20.0,2022-09,Jue,False,True
+2022-09-01,Sandwich,1,15,900.0,Fastfood,60.0,2022-09,Jue,False,True
+2022-09-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Jue,False,True
+2022-09-01,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,True
+2022-09-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-02,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Vie,False,False
+2022-09-02,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Vie,False,False
+2022-09-02,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-02,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Vie,False,False
+2022-09-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Vie,False,False
+2022-09-02,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-03,Aalopuri,1,2,40.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-03,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Sáb,True,False
+2022-09-03,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Sáb,True,False
+2022-09-03,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-03,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Sáb,True,False
+2022-09-03,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-09,Sáb,True,False
+2022-09-03,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-04,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-04,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Dom,True,False
+2022-09-04,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Dom,True,False
+2022-09-04,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-04,Sandwich,2,13,780.0,Fastfood,60.0,2022-09,Dom,True,False
+2022-09-04,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Dom,True,False
+2022-09-04,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-05,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Lun,False,False
+2022-09-05,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Lun,False,False
+2022-09-05,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-05,Sandwich,1,4,240.0,Fastfood,60.0,2022-09,Lun,False,False
+2022-09-05,Sugarcane juice,1,12,300.0,Beverages,25.0,2022-09,Lun,False,False
+2022-09-05,Vadapav,1,8,160.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-06,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-06,Cold coffee,1,7,280.0,Beverages,40.0,2022-09,Mar,False,False
+2022-09-06,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Mar,False,False
+2022-09-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Mar,False,False
+2022-09-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Mar,False,False
+2022-09-06,Vadapav,1,14,280.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-07,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-07,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Mié,False,False
+2022-09-07,Frankie,1,2,100.0,Fastfood,50.0,2022-09,Mié,False,False
+2022-09-07,Panipuri,1,3,60.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-07,Sandwich,1,13,780.0,Fastfood,60.0,2022-09,Mié,False,False
+2022-09-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Mié,False,False
+2022-09-07,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-08,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Jue,False,False
+2022-09-08,Frankie,2,19,950.0,Fastfood,50.0,2022-09,Jue,False,False
+2022-09-08,Panipuri,1,2,40.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-08,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Jue,False,False
+2022-09-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Jue,False,False
+2022-09-08,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-09,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-09,Cold coffee,1,1,40.0,Beverages,40.0,2022-09,Vie,False,False
+2022-09-09,Frankie,1,4,200.0,Fastfood,50.0,2022-09,Vie,False,False
+2022-09-09,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-09,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Vie,False,False
+2022-09-09,Sugarcane juice,1,4,100.0,Beverages,25.0,2022-09,Vie,False,False
+2022-09-09,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-10,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Sáb,True,False
+2022-09-10,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Sáb,True,False
+2022-09-10,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-10,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Sáb,True,False
+2022-09-10,Sugarcane juice,1,2,50.0,Beverages,25.0,2022-09,Sáb,True,False
+2022-09-10,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-11,Aalopuri,1,2,40.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-11,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Dom,True,False
+2022-09-11,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Dom,True,False
+2022-09-11,Panipuri,1,1,20.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-11,Sandwich,1,6,360.0,Fastfood,60.0,2022-09,Dom,True,False
+2022-09-11,Sugarcane juice,1,3,75.0,Beverages,25.0,2022-09,Dom,True,False
+2022-09-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-12,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-12,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Lun,False,False
+2022-09-12,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Lun,False,False
+2022-09-12,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-12,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Lun,False,False
+2022-09-12,Sugarcane juice,2,23,575.0,Beverages,25.0,2022-09,Lun,False,False
+2022-09-12,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-13,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Mar,False,False
+2022-09-13,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Mar,False,False
+2022-09-13,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Mar,False,False
+2022-09-13,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Mar,False,False
+2022-09-13,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-14,Aalopuri,1,15,300.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-14,Cold coffee,1,13,520.0,Beverages,40.0,2022-09,Mié,False,False
+2022-09-14,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Mié,False,False
+2022-09-14,Panipuri,1,12,240.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-14,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Mié,False,False
+2022-09-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Mié,False,False
+2022-09-14,Vadapav,2,30,600.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-15,Aalopuri,1,9,180.0,Fastfood,20.0,2022-09,Jue,False,True
+2022-09-15,Cold coffee,1,10,400.0,Beverages,40.0,2022-09,Jue,False,True
+2022-09-15,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Jue,False,True
+2022-09-15,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,True
+2022-09-15,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Jue,False,True
+2022-09-15,Sugarcane juice,1,4,100.0,Beverages,25.0,2022-09,Jue,False,True
+2022-09-15,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,True
+2022-09-16,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,True
+2022-09-16,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Vie,False,True
+2022-09-16,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Vie,False,True
+2022-09-16,Panipuri,1,5,100.0,Fastfood,20.0,2022-09,Vie,False,True
+2022-09-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Vie,False,True
+2022-09-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Vie,False,True
+2022-09-16,Vadapav,1,2,40.0,Fastfood,20.0,2022-09,Vie,False,True
+2022-09-17,Aalopuri,1,6,120.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-17,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Sáb,True,False
+2022-09-17,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Sáb,True,False
+2022-09-17,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-17,Sandwich,1,12,720.0,Fastfood,60.0,2022-09,Sáb,True,False
+2022-09-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Sáb,True,False
+2022-09-17,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-18,Aalopuri,1,15,300.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Dom,True,False
+2022-09-18,Frankie,1,8,400.0,Fastfood,50.0,2022-09,Dom,True,False
+2022-09-18,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-18,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Dom,True,False
+2022-09-18,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Dom,True,False
+2022-09-18,Vadapav,1,5,100.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-19,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-19,Cold coffee,3,13,520.0,Beverages,40.0,2022-09,Lun,False,False
+2022-09-19,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Lun,False,False
+2022-09-19,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-19,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Lun,False,False
+2022-09-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Lun,False,False
+2022-09-19,Vadapav,1,1,20.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-20,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-20,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Mar,False,False
+2022-09-20,Frankie,1,13,650.0,Fastfood,50.0,2022-09,Mar,False,False
+2022-09-20,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-20,Sandwich,2,21,1260.0,Fastfood,60.0,2022-09,Mar,False,False
+2022-09-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Mar,False,False
+2022-09-20,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-21,Aalopuri,1,9,180.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-21,Cold coffee,2,18,720.0,Beverages,40.0,2022-09,Mié,False,False
+2022-09-21,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Mié,False,False
+2022-09-21,Panipuri,2,14,280.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-21,Sandwich,1,9,540.0,Fastfood,60.0,2022-09,Mié,False,False
+2022-09-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Mié,False,False
+2022-09-21,Vadapav,1,14,280.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-22,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Jue,False,False
+2022-09-22,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Jue,False,False
+2022-09-22,Panipuri,1,8,160.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-22,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Jue,False,False
+2022-09-22,Sugarcane juice,1,12,300.0,Beverages,25.0,2022-09,Jue,False,False
+2022-09-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-23,Aalopuri,1,1,20.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Vie,False,False
+2022-09-23,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Vie,False,False
+2022-09-23,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Vie,False,False
+2022-09-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Vie,False,False
+2022-09-23,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,False
+2022-09-24,Aalopuri,1,14,280.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-24,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Sáb,True,False
+2022-09-24,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Sáb,True,False
+2022-09-24,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Sáb,True,False
+2022-09-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Sáb,True,False
+2022-09-24,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Sáb,True,False
+2022-09-25,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-25,Cold coffee,1,3,120.0,Beverages,40.0,2022-09,Dom,True,False
+2022-09-25,Frankie,1,6,300.0,Fastfood,50.0,2022-09,Dom,True,False
+2022-09-25,Panipuri,1,13,260.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-25,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Dom,True,False
+2022-09-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Dom,True,False
+2022-09-25,Vadapav,1,3,60.0,Fastfood,20.0,2022-09,Dom,True,False
+2022-09-26,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-26,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Lun,False,False
+2022-09-26,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Lun,False,False
+2022-09-26,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-26,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Lun,False,False
+2022-09-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Lun,False,False
+2022-09-26,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Lun,False,False
+2022-09-27,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-27,Cold coffee,1,2,80.0,Beverages,40.0,2022-09,Mar,False,False
+2022-09-27,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Mar,False,False
+2022-09-27,Panipuri,1,15,300.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-27,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Mar,False,False
+2022-09-27,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-09,Mar,False,False
+2022-09-27,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Mar,False,False
+2022-09-28,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-28,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Mié,False,False
+2022-09-28,Frankie,1,4,200.0,Fastfood,50.0,2022-09,Mié,False,False
+2022-09-28,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Mié,False,False
+2022-09-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Mié,False,False
+2022-09-28,Vadapav,1,3,60.0,Fastfood,20.0,2022-09,Mié,False,False
+2022-09-29,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Jue,False,False
+2022-09-29,Frankie,0,0,0.0,Fastfood,50.0,2022-09,Jue,False,False
+2022-09-29,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Jue,False,False
+2022-09-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-09,Jue,False,False
+2022-09-29,Vadapav,2,11,220.0,Fastfood,20.0,2022-09,Jue,False,False
+2022-09-30,Aalopuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,True
+2022-09-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-09,Vie,False,True
+2022-09-30,Frankie,1,13,650.0,Fastfood,50.0,2022-09,Vie,False,True
+2022-09-30,Panipuri,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,True
+2022-09-30,Sandwich,0,0,0.0,Fastfood,60.0,2022-09,Vie,False,True
+2022-09-30,Sugarcane juice,1,6,150.0,Beverages,25.0,2022-09,Vie,False,True
+2022-09-30,Vadapav,0,0,0.0,Fastfood,20.0,2022-09,Vie,False,True
+2022-10-01,Aalopuri,1,9,180.0,Fastfood,20.0,2022-10,Sáb,True,True
+2022-10-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Sáb,True,True
+2022-10-01,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Sáb,True,True
+2022-10-01,Panipuri,1,5,100.0,Fastfood,20.0,2022-10,Sáb,True,True
+2022-10-01,Sandwich,1,13,780.0,Fastfood,60.0,2022-10,Sáb,True,True
+2022-10-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Sáb,True,True
+2022-10-01,Vadapav,1,4,80.0,Fastfood,20.0,2022-10,Sáb,True,True
+2022-10-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-02,Cold coffee,1,2,80.0,Beverages,40.0,2022-10,Dom,True,False
+2022-10-02,Frankie,2,12,600.0,Fastfood,50.0,2022-10,Dom,True,False
+2022-10-02,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-02,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Dom,True,False
+2022-10-02,Sugarcane juice,2,13,325.0,Beverages,25.0,2022-10,Dom,True,False
+2022-10-02,Vadapav,1,12,240.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-03,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-03,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Lun,False,False
+2022-10-03,Frankie,1,13,650.0,Fastfood,50.0,2022-10,Lun,False,False
+2022-10-03,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-03,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Lun,False,False
+2022-10-03,Sugarcane juice,2,7,175.0,Beverages,25.0,2022-10,Lun,False,False
+2022-10-03,Vadapav,1,2,40.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-04,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-04,Cold coffee,1,10,400.0,Beverages,40.0,2022-10,Mar,False,False
+2022-10-04,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Mar,False,False
+2022-10-04,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-04,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Mar,False,False
+2022-10-04,Sugarcane juice,1,12,300.0,Beverages,25.0,2022-10,Mar,False,False
+2022-10-04,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-05,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Mié,False,False
+2022-10-05,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Mié,False,False
+2022-10-05,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-05,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Mié,False,False
+2022-10-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Mié,False,False
+2022-10-05,Vadapav,4,32,640.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-06,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-06,Cold coffee,1,2,80.0,Beverages,40.0,2022-10,Jue,False,False
+2022-10-06,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Jue,False,False
+2022-10-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Jue,False,False
+2022-10-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Jue,False,False
+2022-10-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-07,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-07,Cold coffee,1,7,280.0,Beverages,40.0,2022-10,Vie,False,False
+2022-10-07,Frankie,1,7,350.0,Fastfood,50.0,2022-10,Vie,False,False
+2022-10-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-07,Sandwich,1,6,360.0,Fastfood,60.0,2022-10,Vie,False,False
+2022-10-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Vie,False,False
+2022-10-07,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-08,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Sáb,True,False
+2022-10-08,Frankie,2,7,350.0,Fastfood,50.0,2022-10,Sáb,True,False
+2022-10-08,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-08,Sandwich,1,11,660.0,Fastfood,60.0,2022-10,Sáb,True,False
+2022-10-08,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-10,Sáb,True,False
+2022-10-08,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-09,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-09,Cold coffee,1,12,480.0,Beverages,40.0,2022-10,Dom,True,False
+2022-10-09,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Dom,True,False
+2022-10-09,Panipuri,2,15,300.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-09,Sandwich,3,30,1800.0,Fastfood,60.0,2022-10,Dom,True,False
+2022-10-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Dom,True,False
+2022-10-09,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-10,Aalopuri,1,12,240.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Lun,False,False
+2022-10-10,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Lun,False,False
+2022-10-10,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-10,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Lun,False,False
+2022-10-10,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Lun,False,False
+2022-10-10,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-11,Aalopuri,2,29,580.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-11,Cold coffee,3,27,1080.0,Beverages,40.0,2022-10,Mar,False,False
+2022-10-11,Frankie,1,7,350.0,Fastfood,50.0,2022-10,Mar,False,False
+2022-10-11,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-11,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Mar,False,False
+2022-10-11,Sugarcane juice,2,23,575.0,Beverages,25.0,2022-10,Mar,False,False
+2022-10-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-12,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-12,Cold coffee,1,11,440.0,Beverages,40.0,2022-10,Mié,False,False
+2022-10-12,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Mié,False,False
+2022-10-12,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-12,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Mié,False,False
+2022-10-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Mié,False,False
+2022-10-12,Vadapav,1,10,200.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-13,Cold coffee,1,4,160.0,Beverages,40.0,2022-10,Jue,False,False
+2022-10-13,Frankie,1,7,350.0,Fastfood,50.0,2022-10,Jue,False,False
+2022-10-13,Panipuri,1,10,200.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Jue,False,False
+2022-10-13,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Jue,False,False
+2022-10-13,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-14,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-14,Cold coffee,1,14,560.0,Beverages,40.0,2022-10,Vie,False,False
+2022-10-14,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Vie,False,False
+2022-10-14,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-14,Sandwich,1,8,480.0,Fastfood,60.0,2022-10,Vie,False,False
+2022-10-14,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-10,Vie,False,False
+2022-10-14,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-15,Aalopuri,1,14,280.0,Fastfood,20.0,2022-10,Sáb,True,True
+2022-10-15,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Sáb,True,True
+2022-10-15,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Sáb,True,True
+2022-10-15,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,True
+2022-10-15,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Sáb,True,True
+2022-10-15,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Sáb,True,True
+2022-10-15,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,True
+2022-10-16,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,True
+2022-10-16,Cold coffee,2,18,720.0,Beverages,40.0,2022-10,Dom,True,True
+2022-10-16,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Dom,True,True
+2022-10-16,Panipuri,1,11,220.0,Fastfood,20.0,2022-10,Dom,True,True
+2022-10-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Dom,True,True
+2022-10-16,Sugarcane juice,1,4,100.0,Beverages,25.0,2022-10,Dom,True,True
+2022-10-16,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,True
+2022-10-17,Aalopuri,1,11,220.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-17,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Lun,False,False
+2022-10-17,Frankie,1,12,600.0,Fastfood,50.0,2022-10,Lun,False,False
+2022-10-17,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-17,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Lun,False,False
+2022-10-17,Sugarcane juice,1,3,75.0,Beverages,25.0,2022-10,Lun,False,False
+2022-10-17,Vadapav,1,4,80.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-18,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Mar,False,False
+2022-10-18,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Mar,False,False
+2022-10-18,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-18,Sandwich,1,9,540.0,Fastfood,60.0,2022-10,Mar,False,False
+2022-10-18,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-10,Mar,False,False
+2022-10-18,Vadapav,1,5,100.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-19,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-19,Cold coffee,1,4,160.0,Beverages,40.0,2022-10,Mié,False,False
+2022-10-19,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Mié,False,False
+2022-10-19,Panipuri,1,13,260.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-19,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Mié,False,False
+2022-10-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Mié,False,False
+2022-10-19,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-20,Aalopuri,1,13,260.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-20,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Jue,False,False
+2022-10-20,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Jue,False,False
+2022-10-20,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-20,Sandwich,2,6,360.0,Fastfood,60.0,2022-10,Jue,False,False
+2022-10-20,Sugarcane juice,1,2,50.0,Beverages,25.0,2022-10,Jue,False,False
+2022-10-20,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-21,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-21,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Vie,False,False
+2022-10-21,Frankie,1,7,350.0,Fastfood,50.0,2022-10,Vie,False,False
+2022-10-21,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-21,Sandwich,1,5,300.0,Fastfood,60.0,2022-10,Vie,False,False
+2022-10-21,Sugarcane juice,1,10,250.0,Beverages,25.0,2022-10,Vie,False,False
+2022-10-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-22,Aalopuri,1,1,20.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Sáb,True,False
+2022-10-22,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Sáb,True,False
+2022-10-22,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-22,Sandwich,1,14,840.0,Fastfood,60.0,2022-10,Sáb,True,False
+2022-10-22,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-10,Sáb,True,False
+2022-10-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-23,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Dom,True,False
+2022-10-23,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Dom,True,False
+2022-10-23,Panipuri,1,13,260.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Dom,True,False
+2022-10-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Dom,True,False
+2022-10-23,Vadapav,1,5,100.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-24,Aalopuri,1,3,60.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-24,Cold coffee,3,27,1080.0,Beverages,40.0,2022-10,Lun,False,False
+2022-10-24,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Lun,False,False
+2022-10-24,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Lun,False,False
+2022-10-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Lun,False,False
+2022-10-24,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,False
+2022-10-25,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-25,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Mar,False,False
+2022-10-25,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Mar,False,False
+2022-10-25,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-25,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Mar,False,False
+2022-10-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Mar,False,False
+2022-10-25,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Mar,False,False
+2022-10-26,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-26,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Mié,False,False
+2022-10-26,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Mié,False,False
+2022-10-26,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-26,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Mié,False,False
+2022-10-26,Sugarcane juice,1,3,75.0,Beverages,25.0,2022-10,Mié,False,False
+2022-10-26,Vadapav,2,13,260.0,Fastfood,20.0,2022-10,Mié,False,False
+2022-10-27,Aalopuri,1,6,120.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-27,Cold coffee,1,13,520.0,Beverages,40.0,2022-10,Jue,False,False
+2022-10-27,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Jue,False,False
+2022-10-27,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-27,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Jue,False,False
+2022-10-27,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-10,Jue,False,False
+2022-10-27,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Jue,False,False
+2022-10-28,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-28,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Vie,False,False
+2022-10-28,Frankie,1,4,200.0,Fastfood,50.0,2022-10,Vie,False,False
+2022-10-28,Panipuri,1,9,180.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Vie,False,False
+2022-10-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Vie,False,False
+2022-10-28,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Vie,False,False
+2022-10-29,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Sáb,True,False
+2022-10-29,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Sáb,True,False
+2022-10-29,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Sáb,True,False
+2022-10-29,Sugarcane juice,1,4,100.0,Beverages,25.0,2022-10,Sáb,True,False
+2022-10-29,Vadapav,1,15,300.0,Fastfood,20.0,2022-10,Sáb,True,False
+2022-10-30,Aalopuri,2,16,320.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-10,Dom,True,False
+2022-10-30,Frankie,0,0,0.0,Fastfood,50.0,2022-10,Dom,True,False
+2022-10-30,Panipuri,1,14,280.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-30,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Dom,True,False
+2022-10-30,Sugarcane juice,1,11,275.0,Beverages,25.0,2022-10,Dom,True,False
+2022-10-30,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Dom,True,False
+2022-10-31,Aalopuri,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,True
+2022-10-31,Cold coffee,1,5,200.0,Beverages,40.0,2022-10,Lun,False,True
+2022-10-31,Frankie,2,25,1250.0,Fastfood,50.0,2022-10,Lun,False,True
+2022-10-31,Panipuri,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,True
+2022-10-31,Sandwich,0,0,0.0,Fastfood,60.0,2022-10,Lun,False,True
+2022-10-31,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-10,Lun,False,True
+2022-10-31,Vadapav,0,0,0.0,Fastfood,20.0,2022-10,Lun,False,True
+2022-11-01,Aalopuri,1,12,240.0,Fastfood,20.0,2022-11,Mar,False,True
+2022-11-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mar,False,True
+2022-11-01,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Mar,False,True
+2022-11-01,Panipuri,2,12,240.0,Fastfood,20.0,2022-11,Mar,False,True
+2022-11-01,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Mar,False,True
+2022-11-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Mar,False,True
+2022-11-01,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,True
+2022-11-02,Aalopuri,1,1,20.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-02,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mié,False,False
+2022-11-02,Frankie,1,4,200.0,Fastfood,50.0,2022-11,Mié,False,False
+2022-11-02,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-02,Sandwich,2,19,1140.0,Fastfood,60.0,2022-11,Mié,False,False
+2022-11-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Mié,False,False
+2022-11-02,Vadapav,1,8,160.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-03,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-03,Cold coffee,1,10,400.0,Beverages,40.0,2022-11,Jue,False,False
+2022-11-03,Frankie,1,6,300.0,Fastfood,50.0,2022-11,Jue,False,False
+2022-11-03,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-03,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Jue,False,False
+2022-11-03,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Jue,False,False
+2022-11-03,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-04,Aalopuri,1,13,260.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-04,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Vie,False,False
+2022-11-04,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Vie,False,False
+2022-11-04,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-04,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Vie,False,False
+2022-11-04,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Vie,False,False
+2022-11-04,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-05,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Sáb,True,False
+2022-11-05,Frankie,1,9,450.0,Fastfood,50.0,2022-11,Sáb,True,False
+2022-11-05,Panipuri,3,24,480.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-05,Sandwich,1,4,240.0,Fastfood,60.0,2022-11,Sáb,True,False
+2022-11-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Sáb,True,False
+2022-11-05,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-06,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-06,Cold coffee,3,34,1360.0,Beverages,40.0,2022-11,Dom,True,False
+2022-11-06,Frankie,1,4,200.0,Fastfood,50.0,2022-11,Dom,True,False
+2022-11-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Dom,True,False
+2022-11-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Dom,True,False
+2022-11-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-07,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-07,Cold coffee,1,10,400.0,Beverages,40.0,2022-11,Lun,False,False
+2022-11-07,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Lun,False,False
+2022-11-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-07,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Lun,False,False
+2022-11-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Lun,False,False
+2022-11-07,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-08,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mar,False,False
+2022-11-08,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Mar,False,False
+2022-11-08,Panipuri,2,23,460.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-08,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Mar,False,False
+2022-11-08,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-11,Mar,False,False
+2022-11-08,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-09,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-09,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mié,False,False
+2022-11-09,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Mié,False,False
+2022-11-09,Panipuri,1,1,20.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-09,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Mié,False,False
+2022-11-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Mié,False,False
+2022-11-09,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-10,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Jue,False,False
+2022-11-10,Frankie,1,9,450.0,Fastfood,50.0,2022-11,Jue,False,False
+2022-11-10,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-10,Sandwich,1,2,120.0,Fastfood,60.0,2022-11,Jue,False,False
+2022-11-10,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Jue,False,False
+2022-11-10,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-11,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-11,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Vie,False,False
+2022-11-11,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Vie,False,False
+2022-11-11,Panipuri,2,25,500.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-11,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Vie,False,False
+2022-11-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Vie,False,False
+2022-11-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-12,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-12,Cold coffee,1,7,280.0,Beverages,40.0,2022-11,Sáb,True,False
+2022-11-12,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Sáb,True,False
+2022-11-12,Panipuri,2,11,220.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-12,Sandwich,1,3,180.0,Fastfood,60.0,2022-11,Sáb,True,False
+2022-11-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Sáb,True,False
+2022-11-12,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-13,Cold coffee,1,11,440.0,Beverages,40.0,2022-11,Dom,True,False
+2022-11-13,Frankie,1,11,550.0,Fastfood,50.0,2022-11,Dom,True,False
+2022-11-13,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Dom,True,False
+2022-11-13,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Dom,True,False
+2022-11-13,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-14,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-14,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Lun,False,False
+2022-11-14,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Lun,False,False
+2022-11-14,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-14,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Lun,False,False
+2022-11-14,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-11,Lun,False,False
+2022-11-14,Vadapav,1,10,200.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-15,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,True
+2022-11-15,Cold coffee,1,15,600.0,Beverages,40.0,2022-11,Mar,False,True
+2022-11-15,Frankie,1,6,300.0,Fastfood,50.0,2022-11,Mar,False,True
+2022-11-15,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,True
+2022-11-15,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Mar,False,True
+2022-11-15,Sugarcane juice,1,6,150.0,Beverages,25.0,2022-11,Mar,False,True
+2022-11-15,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,True
+2022-11-16,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Mié,False,True
+2022-11-16,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mié,False,True
+2022-11-16,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Mié,False,True
+2022-11-16,Panipuri,1,2,40.0,Fastfood,20.0,2022-11,Mié,False,True
+2022-11-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Mié,False,True
+2022-11-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Mié,False,True
+2022-11-16,Vadapav,1,10,200.0,Fastfood,20.0,2022-11,Mié,False,True
+2022-11-17,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-17,Cold coffee,2,20,800.0,Beverages,40.0,2022-11,Jue,False,False
+2022-11-17,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Jue,False,False
+2022-11-17,Panipuri,2,23,460.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-17,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Jue,False,False
+2022-11-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Jue,False,False
+2022-11-17,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-18,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Vie,False,False
+2022-11-18,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Vie,False,False
+2022-11-18,Panipuri,1,14,280.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-18,Sandwich,1,4,240.0,Fastfood,60.0,2022-11,Vie,False,False
+2022-11-18,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Vie,False,False
+2022-11-18,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-19,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-19,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Sáb,True,False
+2022-11-19,Frankie,2,24,1200.0,Fastfood,50.0,2022-11,Sáb,True,False
+2022-11-19,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-19,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Sáb,True,False
+2022-11-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Sáb,True,False
+2022-11-19,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-20,Aalopuri,1,2,40.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-20,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Dom,True,False
+2022-11-20,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Dom,True,False
+2022-11-20,Panipuri,1,12,240.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-20,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Dom,True,False
+2022-11-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Dom,True,False
+2022-11-20,Vadapav,1,1,20.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-21,Aalopuri,1,5,100.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-21,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Lun,False,False
+2022-11-21,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Lun,False,False
+2022-11-21,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-21,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Lun,False,False
+2022-11-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Lun,False,False
+2022-11-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-22,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-22,Cold coffee,1,9,360.0,Beverages,40.0,2022-11,Mar,False,False
+2022-11-22,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Mar,False,False
+2022-11-22,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-22,Sandwich,1,10,600.0,Fastfood,60.0,2022-11,Mar,False,False
+2022-11-22,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Mar,False,False
+2022-11-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-23,Aalopuri,1,15,300.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-23,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mié,False,False
+2022-11-23,Frankie,2,9,450.0,Fastfood,50.0,2022-11,Mié,False,False
+2022-11-23,Panipuri,1,11,220.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Mié,False,False
+2022-11-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Mié,False,False
+2022-11-23,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mié,False,False
+2022-11-24,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-24,Cold coffee,1,3,120.0,Beverages,40.0,2022-11,Jue,False,False
+2022-11-24,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Jue,False,False
+2022-11-24,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-24,Sandwich,1,7,420.0,Fastfood,60.0,2022-11,Jue,False,False
+2022-11-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Jue,False,False
+2022-11-24,Vadapav,1,10,200.0,Fastfood,20.0,2022-11,Jue,False,False
+2022-11-25,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-25,Cold coffee,2,15,600.0,Beverages,40.0,2022-11,Vie,False,False
+2022-11-25,Frankie,1,4,200.0,Fastfood,50.0,2022-11,Vie,False,False
+2022-11-25,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-25,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Vie,False,False
+2022-11-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Vie,False,False
+2022-11-25,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Vie,False,False
+2022-11-26,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-26,Cold coffee,1,11,440.0,Beverages,40.0,2022-11,Sáb,True,False
+2022-11-26,Frankie,1,7,350.0,Fastfood,50.0,2022-11,Sáb,True,False
+2022-11-26,Panipuri,1,10,200.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-26,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Sáb,True,False
+2022-11-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-11,Sáb,True,False
+2022-11-26,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Sáb,True,False
+2022-11-27,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-27,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Dom,True,False
+2022-11-27,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Dom,True,False
+2022-11-27,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-27,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Dom,True,False
+2022-11-27,Sugarcane juice,2,23,575.0,Beverages,25.0,2022-11,Dom,True,False
+2022-11-27,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Dom,True,False
+2022-11-28,Aalopuri,2,14,280.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-28,Cold coffee,1,9,360.0,Beverages,40.0,2022-11,Lun,False,False
+2022-11-28,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Lun,False,False
+2022-11-28,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-28,Sandwich,1,6,360.0,Fastfood,60.0,2022-11,Lun,False,False
+2022-11-28,Sugarcane juice,1,1,25.0,Beverages,25.0,2022-11,Lun,False,False
+2022-11-28,Vadapav,1,8,160.0,Fastfood,20.0,2022-11,Lun,False,False
+2022-11-29,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mar,False,False
+2022-11-29,Frankie,1,15,750.0,Fastfood,50.0,2022-11,Mar,False,False
+2022-11-29,Panipuri,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-29,Sandwich,1,10,600.0,Fastfood,60.0,2022-11,Mar,False,False
+2022-11-29,Sugarcane juice,1,13,325.0,Beverages,25.0,2022-11,Mar,False,False
+2022-11-29,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mar,False,False
+2022-11-30,Aalopuri,0,0,0.0,Fastfood,20.0,2022-11,Mié,False,True
+2022-11-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-11,Mié,False,True
+2022-11-30,Frankie,0,0,0.0,Fastfood,50.0,2022-11,Mié,False,True
+2022-11-30,Panipuri,1,10,200.0,Fastfood,20.0,2022-11,Mié,False,True
+2022-11-30,Sandwich,0,0,0.0,Fastfood,60.0,2022-11,Mié,False,True
+2022-11-30,Sugarcane juice,1,10,250.0,Beverages,25.0,2022-11,Mié,False,True
+2022-11-30,Vadapav,0,0,0.0,Fastfood,20.0,2022-11,Mié,False,True
+2022-12-01,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,True
+2022-12-01,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Jue,False,True
+2022-12-01,Frankie,1,8,400.0,Fastfood,50.0,2022-12,Jue,False,True
+2022-12-01,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,True
+2022-12-01,Sandwich,1,7,420.0,Fastfood,60.0,2022-12,Jue,False,True
+2022-12-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Jue,False,True
+2022-12-01,Vadapav,1,6,120.0,Fastfood,20.0,2022-12,Jue,False,True
+2022-12-02,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-02,Cold coffee,1,6,240.0,Beverages,40.0,2022-12,Vie,False,False
+2022-12-02,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Vie,False,False
+2022-12-02,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-02,Sandwich,1,15,900.0,Fastfood,60.0,2022-12,Vie,False,False
+2022-12-02,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-12,Vie,False,False
+2022-12-02,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-03,Aalopuri,1,1,20.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-03,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Sáb,True,False
+2022-12-03,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Sáb,True,False
+2022-12-03,Panipuri,1,9,180.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-03,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Sáb,True,False
+2022-12-03,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-12,Sáb,True,False
+2022-12-03,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-04,Aalopuri,1,2,40.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-04,Cold coffee,1,15,600.0,Beverages,40.0,2022-12,Dom,True,False
+2022-12-04,Frankie,2,19,950.0,Fastfood,50.0,2022-12,Dom,True,False
+2022-12-04,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-04,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Dom,True,False
+2022-12-04,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-12,Dom,True,False
+2022-12-04,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-05,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-05,Cold coffee,1,6,240.0,Beverages,40.0,2022-12,Lun,False,False
+2022-12-05,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Lun,False,False
+2022-12-05,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-05,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Lun,False,False
+2022-12-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Lun,False,False
+2022-12-05,Vadapav,2,12,240.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-06,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-06,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Mar,False,False
+2022-12-06,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Mar,False,False
+2022-12-06,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-06,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Mar,False,False
+2022-12-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Mar,False,False
+2022-12-06,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-07,Aalopuri,1,2,40.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-07,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Mié,False,False
+2022-12-07,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Mié,False,False
+2022-12-07,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-07,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Mié,False,False
+2022-12-07,Sugarcane juice,1,9,225.0,Beverages,25.0,2022-12,Mié,False,False
+2022-12-07,Vadapav,1,14,280.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-08,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-08,Cold coffee,1,13,520.0,Beverages,40.0,2022-12,Jue,False,False
+2022-12-08,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Jue,False,False
+2022-12-08,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-08,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Jue,False,False
+2022-12-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Jue,False,False
+2022-12-08,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-09,Aalopuri,2,8,160.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-09,Cold coffee,2,9,360.0,Beverages,40.0,2022-12,Vie,False,False
+2022-12-09,Frankie,1,9,450.0,Fastfood,50.0,2022-12,Vie,False,False
+2022-12-09,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-09,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Vie,False,False
+2022-12-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Vie,False,False
+2022-12-09,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-10,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-10,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Sáb,True,False
+2022-12-10,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Sáb,True,False
+2022-12-10,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-10,Sandwich,1,1,60.0,Fastfood,60.0,2022-12,Sáb,True,False
+2022-12-10,Sugarcane juice,2,8,200.0,Beverages,25.0,2022-12,Sáb,True,False
+2022-12-10,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-11,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-11,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Dom,True,False
+2022-12-11,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Dom,True,False
+2022-12-11,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-11,Sandwich,1,10,600.0,Fastfood,60.0,2022-12,Dom,True,False
+2022-12-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Dom,True,False
+2022-12-11,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-12,Aalopuri,2,21,420.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-12,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Lun,False,False
+2022-12-12,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Lun,False,False
+2022-12-12,Panipuri,1,10,200.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-12,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Lun,False,False
+2022-12-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Lun,False,False
+2022-12-12,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-13,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-13,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Mar,False,False
+2022-12-13,Frankie,1,15,750.0,Fastfood,50.0,2022-12,Mar,False,False
+2022-12-13,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-13,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Mar,False,False
+2022-12-13,Sugarcane juice,1,10,250.0,Beverages,25.0,2022-12,Mar,False,False
+2022-12-13,Vadapav,1,3,60.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-14,Aalopuri,1,14,280.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-14,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Mié,False,False
+2022-12-14,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Mié,False,False
+2022-12-14,Panipuri,1,13,260.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-14,Sandwich,1,15,900.0,Fastfood,60.0,2022-12,Mié,False,False
+2022-12-14,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-12,Mié,False,False
+2022-12-14,Vadapav,1,6,120.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-15,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,True
+2022-12-15,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Jue,False,True
+2022-12-15,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Jue,False,True
+2022-12-15,Panipuri,1,7,140.0,Fastfood,20.0,2022-12,Jue,False,True
+2022-12-15,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Jue,False,True
+2022-12-15,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Jue,False,True
+2022-12-15,Vadapav,2,13,260.0,Fastfood,20.0,2022-12,Jue,False,True
+2022-12-16,Aalopuri,1,5,100.0,Fastfood,20.0,2022-12,Vie,False,True
+2022-12-16,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Vie,False,True
+2022-12-16,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Vie,False,True
+2022-12-16,Panipuri,1,2,40.0,Fastfood,20.0,2022-12,Vie,False,True
+2022-12-16,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Vie,False,True
+2022-12-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Vie,False,True
+2022-12-16,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,True
+2022-12-17,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-17,Cold coffee,1,2,80.0,Beverages,40.0,2022-12,Sáb,True,False
+2022-12-17,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Sáb,True,False
+2022-12-17,Panipuri,1,14,280.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-17,Sandwich,1,13,780.0,Fastfood,60.0,2022-12,Sáb,True,False
+2022-12-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Sáb,True,False
+2022-12-17,Vadapav,1,3,60.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-18,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-18,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Dom,True,False
+2022-12-18,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Dom,True,False
+2022-12-18,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-18,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Dom,True,False
+2022-12-18,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Dom,True,False
+2022-12-18,Vadapav,1,10,200.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-19,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-19,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Lun,False,False
+2022-12-19,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Lun,False,False
+2022-12-19,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-19,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Lun,False,False
+2022-12-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Lun,False,False
+2022-12-19,Vadapav,1,2,40.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-20,Aalopuri,1,5,100.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-20,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Mar,False,False
+2022-12-20,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Mar,False,False
+2022-12-20,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-20,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Mar,False,False
+2022-12-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Mar,False,False
+2022-12-20,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-21,Aalopuri,1,10,200.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-21,Cold coffee,2,28,1120.0,Beverages,40.0,2022-12,Mié,False,False
+2022-12-21,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Mié,False,False
+2022-12-21,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-21,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Mié,False,False
+2022-12-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Mié,False,False
+2022-12-21,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-22,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-22,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Jue,False,False
+2022-12-22,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Jue,False,False
+2022-12-22,Panipuri,3,25,500.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-22,Sandwich,1,12,720.0,Fastfood,60.0,2022-12,Jue,False,False
+2022-12-22,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Jue,False,False
+2022-12-22,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-23,Aalopuri,1,14,280.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-23,Cold coffee,2,17,680.0,Beverages,40.0,2022-12,Vie,False,False
+2022-12-23,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Vie,False,False
+2022-12-23,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-23,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Vie,False,False
+2022-12-23,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Vie,False,False
+2022-12-23,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-24,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-24,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Sáb,True,False
+2022-12-24,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Sáb,True,False
+2022-12-24,Panipuri,1,6,120.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-24,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Sáb,True,False
+2022-12-24,Sugarcane juice,1,8,200.0,Beverages,25.0,2022-12,Sáb,True,False
+2022-12-24,Vadapav,3,9,180.0,Fastfood,20.0,2022-12,Sáb,True,False
+2022-12-25,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-25,Cold coffee,1,10,400.0,Beverages,40.0,2022-12,Dom,True,False
+2022-12-25,Frankie,1,5,250.0,Fastfood,50.0,2022-12,Dom,True,False
+2022-12-25,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-25,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Dom,True,False
+2022-12-25,Sugarcane juice,2,24,600.0,Beverages,25.0,2022-12,Dom,True,False
+2022-12-25,Vadapav,1,14,280.0,Fastfood,20.0,2022-12,Dom,True,False
+2022-12-26,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-26,Cold coffee,2,20,800.0,Beverages,40.0,2022-12,Lun,False,False
+2022-12-26,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Lun,False,False
+2022-12-26,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-26,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Lun,False,False
+2022-12-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Lun,False,False
+2022-12-26,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Lun,False,False
+2022-12-27,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-27,Cold coffee,1,11,440.0,Beverages,40.0,2022-12,Mar,False,False
+2022-12-27,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Mar,False,False
+2022-12-27,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-27,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Mar,False,False
+2022-12-27,Sugarcane juice,1,9,225.0,Beverages,25.0,2022-12,Mar,False,False
+2022-12-27,Vadapav,1,3,60.0,Fastfood,20.0,2022-12,Mar,False,False
+2022-12-28,Aalopuri,1,2,40.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-28,Cold coffee,1,1,40.0,Beverages,40.0,2022-12,Mié,False,False
+2022-12-28,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Mié,False,False
+2022-12-28,Panipuri,2,28,560.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-28,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Mié,False,False
+2022-12-28,Sugarcane juice,1,7,175.0,Beverages,25.0,2022-12,Mié,False,False
+2022-12-28,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Mié,False,False
+2022-12-29,Aalopuri,1,4,80.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-29,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Jue,False,False
+2022-12-29,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Jue,False,False
+2022-12-29,Panipuri,2,25,500.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-29,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Jue,False,False
+2022-12-29,Sugarcane juice,1,14,350.0,Beverages,25.0,2022-12,Jue,False,False
+2022-12-29,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Jue,False,False
+2022-12-30,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-30,Cold coffee,0,0,0.0,Beverages,40.0,2022-12,Vie,False,False
+2022-12-30,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Vie,False,False
+2022-12-30,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-30,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Vie,False,False
+2022-12-30,Sugarcane juice,2,14,350.0,Beverages,25.0,2022-12,Vie,False,False
+2022-12-30,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Vie,False,False
+2022-12-31,Aalopuri,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,True
+2022-12-31,Cold coffee,1,13,520.0,Beverages,40.0,2022-12,Sáb,True,True
+2022-12-31,Frankie,0,0,0.0,Fastfood,50.0,2022-12,Sáb,True,True
+2022-12-31,Panipuri,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,True
+2022-12-31,Sandwich,0,0,0.0,Fastfood,60.0,2022-12,Sáb,True,True
+2022-12-31,Sugarcane juice,0,0,0.0,Beverages,25.0,2022-12,Sáb,True,True
+2022-12-31,Vadapav,0,0,0.0,Fastfood,20.0,2022-12,Sáb,True,True
+2023-01-01,Aalopuri,1,15,300.0,Fastfood,20.0,2023-01,Dom,True,True
+2023-01-01,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Dom,True,True
+2023-01-01,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Dom,True,True
+2023-01-01,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,True
+2023-01-01,Sandwich,1,13,780.0,Fastfood,60.0,2023-01,Dom,True,True
+2023-01-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Dom,True,True
+2023-01-01,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,True
+2023-01-02,Aalopuri,1,12,240.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-02,Cold coffee,1,15,600.0,Beverages,40.0,2023-01,Lun,False,False
+2023-01-02,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Lun,False,False
+2023-01-02,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-02,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Lun,False,False
+2023-01-02,Sugarcane juice,2,17,425.0,Beverages,25.0,2023-01,Lun,False,False
+2023-01-02,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-03,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-03,Cold coffee,1,8,320.0,Beverages,40.0,2023-01,Mar,False,False
+2023-01-03,Frankie,1,13,650.0,Fastfood,50.0,2023-01,Mar,False,False
+2023-01-03,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-03,Sandwich,1,10,600.0,Fastfood,60.0,2023-01,Mar,False,False
+2023-01-03,Sugarcane juice,1,11,275.0,Beverages,25.0,2023-01,Mar,False,False
+2023-01-03,Vadapav,1,8,160.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-04,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-04,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Mié,False,False
+2023-01-04,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Mié,False,False
+2023-01-04,Panipuri,1,13,260.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-04,Sandwich,1,15,900.0,Fastfood,60.0,2023-01,Mié,False,False
+2023-01-04,Sugarcane juice,1,10,250.0,Beverages,25.0,2023-01,Mié,False,False
+2023-01-04,Vadapav,1,3,60.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-05,Aalopuri,1,1,20.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-05,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Jue,False,False
+2023-01-05,Frankie,3,35,1750.0,Fastfood,50.0,2023-01,Jue,False,False
+2023-01-05,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-05,Sandwich,1,11,660.0,Fastfood,60.0,2023-01,Jue,False,False
+2023-01-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Jue,False,False
+2023-01-05,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-06,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-06,Cold coffee,1,10,400.0,Beverages,40.0,2023-01,Vie,False,False
+2023-01-06,Frankie,1,6,300.0,Fastfood,50.0,2023-01,Vie,False,False
+2023-01-06,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-06,Sandwich,1,12,720.0,Fastfood,60.0,2023-01,Vie,False,False
+2023-01-06,Sugarcane juice,1,6,150.0,Beverages,25.0,2023-01,Vie,False,False
+2023-01-06,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-07,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-07,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Sáb,True,False
+2023-01-07,Frankie,1,3,150.0,Fastfood,50.0,2023-01,Sáb,True,False
+2023-01-07,Panipuri,1,1,20.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-07,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Sáb,True,False
+2023-01-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Sáb,True,False
+2023-01-07,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-08,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-08,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Dom,True,False
+2023-01-08,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Dom,True,False
+2023-01-08,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-08,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Dom,True,False
+2023-01-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Dom,True,False
+2023-01-08,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-09,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-09,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Lun,False,False
+2023-01-09,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Lun,False,False
+2023-01-09,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-09,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Lun,False,False
+2023-01-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Lun,False,False
+2023-01-09,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-10,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-10,Cold coffee,1,7,280.0,Beverages,40.0,2023-01,Mar,False,False
+2023-01-10,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Mar,False,False
+2023-01-10,Panipuri,1,7,140.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-10,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Mar,False,False
+2023-01-10,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Mar,False,False
+2023-01-10,Vadapav,2,16,320.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-11,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-11,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Mié,False,False
+2023-01-11,Frankie,1,9,450.0,Fastfood,50.0,2023-01,Mié,False,False
+2023-01-11,Panipuri,4,20,400.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-11,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Mié,False,False
+2023-01-11,Sugarcane juice,1,11,275.0,Beverages,25.0,2023-01,Mié,False,False
+2023-01-11,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-12,Aalopuri,1,13,260.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-12,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Jue,False,False
+2023-01-12,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Jue,False,False
+2023-01-12,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-12,Sandwich,1,14,840.0,Fastfood,60.0,2023-01,Jue,False,False
+2023-01-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Jue,False,False
+2023-01-12,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-13,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-13,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Vie,False,False
+2023-01-13,Frankie,1,14,700.0,Fastfood,50.0,2023-01,Vie,False,False
+2023-01-13,Panipuri,1,6,120.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-13,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Vie,False,False
+2023-01-13,Sugarcane juice,1,15,375.0,Beverages,25.0,2023-01,Vie,False,False
+2023-01-13,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-14,Aalopuri,1,8,160.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-14,Cold coffee,2,13,520.0,Beverages,40.0,2023-01,Sáb,True,False
+2023-01-14,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Sáb,True,False
+2023-01-14,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-14,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Sáb,True,False
+2023-01-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Sáb,True,False
+2023-01-14,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-15,Aalopuri,1,1,20.0,Fastfood,20.0,2023-01,Dom,True,True
+2023-01-15,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Dom,True,True
+2023-01-15,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Dom,True,True
+2023-01-15,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,True
+2023-01-15,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Dom,True,True
+2023-01-15,Sugarcane juice,1,12,300.0,Beverages,25.0,2023-01,Dom,True,True
+2023-01-15,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,True
+2023-01-16,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,True
+2023-01-16,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Lun,False,True
+2023-01-16,Frankie,1,2,100.0,Fastfood,50.0,2023-01,Lun,False,True
+2023-01-16,Panipuri,2,17,340.0,Fastfood,20.0,2023-01,Lun,False,True
+2023-01-16,Sandwich,2,23,1380.0,Fastfood,60.0,2023-01,Lun,False,True
+2023-01-16,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Lun,False,True
+2023-01-16,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,True
+2023-01-17,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-17,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Mar,False,False
+2023-01-17,Frankie,1,6,300.0,Fastfood,50.0,2023-01,Mar,False,False
+2023-01-17,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-17,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Mar,False,False
+2023-01-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Mar,False,False
+2023-01-17,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-18,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-18,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Mié,False,False
+2023-01-18,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Mié,False,False
+2023-01-18,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-18,Sandwich,1,7,420.0,Fastfood,60.0,2023-01,Mié,False,False
+2023-01-18,Sugarcane juice,1,5,125.0,Beverages,25.0,2023-01,Mié,False,False
+2023-01-18,Vadapav,1,2,40.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-19,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-19,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Jue,False,False
+2023-01-19,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Jue,False,False
+2023-01-19,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-19,Sandwich,1,8,480.0,Fastfood,60.0,2023-01,Jue,False,False
+2023-01-19,Sugarcane juice,1,12,300.0,Beverages,25.0,2023-01,Jue,False,False
+2023-01-19,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-20,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-20,Cold coffee,1,2,80.0,Beverages,40.0,2023-01,Vie,False,False
+2023-01-20,Frankie,2,20,1000.0,Fastfood,50.0,2023-01,Vie,False,False
+2023-01-20,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-20,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Vie,False,False
+2023-01-20,Sugarcane juice,1,9,225.0,Beverages,25.0,2023-01,Vie,False,False
+2023-01-20,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-21,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-21,Cold coffee,1,13,520.0,Beverages,40.0,2023-01,Sáb,True,False
+2023-01-21,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Sáb,True,False
+2023-01-21,Panipuri,1,2,40.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-21,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Sáb,True,False
+2023-01-21,Sugarcane juice,1,15,375.0,Beverages,25.0,2023-01,Sáb,True,False
+2023-01-21,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-22,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-22,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Dom,True,False
+2023-01-22,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Dom,True,False
+2023-01-22,Panipuri,1,15,300.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-22,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Dom,True,False
+2023-01-22,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Dom,True,False
+2023-01-22,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-23,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-23,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Lun,False,False
+2023-01-23,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Lun,False,False
+2023-01-23,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-23,Sandwich,1,7,420.0,Fastfood,60.0,2023-01,Lun,False,False
+2023-01-23,Sugarcane juice,1,6,150.0,Beverages,25.0,2023-01,Lun,False,False
+2023-01-23,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-24,Aalopuri,1,7,140.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-24,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Mar,False,False
+2023-01-24,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Mar,False,False
+2023-01-24,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-24,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Mar,False,False
+2023-01-24,Sugarcane juice,1,8,200.0,Beverages,25.0,2023-01,Mar,False,False
+2023-01-24,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,False
+2023-01-25,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-25,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Mié,False,False
+2023-01-25,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Mié,False,False
+2023-01-25,Panipuri,3,20,400.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-25,Sandwich,1,7,420.0,Fastfood,60.0,2023-01,Mié,False,False
+2023-01-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Mié,False,False
+2023-01-25,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Mié,False,False
+2023-01-26,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-26,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Jue,False,False
+2023-01-26,Frankie,1,15,750.0,Fastfood,50.0,2023-01,Jue,False,False
+2023-01-26,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-26,Sandwich,1,13,780.0,Fastfood,60.0,2023-01,Jue,False,False
+2023-01-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Jue,False,False
+2023-01-26,Vadapav,1,14,280.0,Fastfood,20.0,2023-01,Jue,False,False
+2023-01-27,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-27,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Vie,False,False
+2023-01-27,Frankie,1,8,400.0,Fastfood,50.0,2023-01,Vie,False,False
+2023-01-27,Panipuri,1,14,280.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-27,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Vie,False,False
+2023-01-27,Sugarcane juice,1,7,175.0,Beverages,25.0,2023-01,Vie,False,False
+2023-01-27,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Vie,False,False
+2023-01-28,Aalopuri,1,15,300.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-28,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Sáb,True,False
+2023-01-28,Frankie,1,2,100.0,Fastfood,50.0,2023-01,Sáb,True,False
+2023-01-28,Panipuri,1,7,140.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-28,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Sáb,True,False
+2023-01-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Sáb,True,False
+2023-01-28,Vadapav,1,13,260.0,Fastfood,20.0,2023-01,Sáb,True,False
+2023-01-29,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-29,Cold coffee,0,0,0.0,Beverages,40.0,2023-01,Dom,True,False
+2023-01-29,Frankie,1,7,350.0,Fastfood,50.0,2023-01,Dom,True,False
+2023-01-29,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-29,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Dom,True,False
+2023-01-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Dom,True,False
+2023-01-29,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Dom,True,False
+2023-01-30,Aalopuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-30,Cold coffee,1,14,560.0,Beverages,40.0,2023-01,Lun,False,False
+2023-01-30,Frankie,1,13,650.0,Fastfood,50.0,2023-01,Lun,False,False
+2023-01-30,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-30,Sandwich,0,0,0.0,Fastfood,60.0,2023-01,Lun,False,False
+2023-01-30,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Lun,False,False
+2023-01-30,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Lun,False,False
+2023-01-31,Aalopuri,2,4,80.0,Fastfood,20.0,2023-01,Mar,False,True
+2023-01-31,Cold coffee,1,12,480.0,Beverages,40.0,2023-01,Mar,False,True
+2023-01-31,Frankie,0,0,0.0,Fastfood,50.0,2023-01,Mar,False,True
+2023-01-31,Panipuri,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,True
+2023-01-31,Sandwich,1,3,180.0,Fastfood,60.0,2023-01,Mar,False,True
+2023-01-31,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-01,Mar,False,True
+2023-01-31,Vadapav,0,0,0.0,Fastfood,20.0,2023-01,Mar,False,True
+2023-02-01,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,True
+2023-02-01,Cold coffee,1,15,600.0,Beverages,40.0,2023-02,Mié,False,True
+2023-02-01,Frankie,2,7,350.0,Fastfood,50.0,2023-02,Mié,False,True
+2023-02-01,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,True
+2023-02-01,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Mié,False,True
+2023-02-01,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Mié,False,True
+2023-02-01,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,True
+2023-02-02,Aalopuri,1,10,200.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-02,Cold coffee,1,6,240.0,Beverages,40.0,2023-02,Jue,False,False
+2023-02-02,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Jue,False,False
+2023-02-02,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-02,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Jue,False,False
+2023-02-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Jue,False,False
+2023-02-02,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-03,Aalopuri,1,3,60.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-03,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Vie,False,False
+2023-02-03,Frankie,2,23,1150.0,Fastfood,50.0,2023-02,Vie,False,False
+2023-02-03,Panipuri,1,5,100.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-03,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Vie,False,False
+2023-02-03,Sugarcane juice,1,6,150.0,Beverages,25.0,2023-02,Vie,False,False
+2023-02-03,Vadapav,2,15,300.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-04,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-04,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Sáb,True,False
+2023-02-04,Frankie,1,12,600.0,Fastfood,50.0,2023-02,Sáb,True,False
+2023-02-04,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-04,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Sáb,True,False
+2023-02-04,Sugarcane juice,1,12,300.0,Beverages,25.0,2023-02,Sáb,True,False
+2023-02-04,Vadapav,1,15,300.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-05,Aalopuri,1,13,260.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-05,Cold coffee,2,27,1080.0,Beverages,40.0,2023-02,Dom,True,False
+2023-02-05,Frankie,2,10,500.0,Fastfood,50.0,2023-02,Dom,True,False
+2023-02-05,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-05,Sandwich,1,5,300.0,Fastfood,60.0,2023-02,Dom,True,False
+2023-02-05,Sugarcane juice,1,1,25.0,Beverages,25.0,2023-02,Dom,True,False
+2023-02-05,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-06,Aalopuri,1,3,60.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-06,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Lun,False,False
+2023-02-06,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Lun,False,False
+2023-02-06,Panipuri,1,7,140.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-06,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Lun,False,False
+2023-02-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Lun,False,False
+2023-02-06,Vadapav,1,15,300.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-07,Aalopuri,1,14,280.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-07,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Mar,False,False
+2023-02-07,Frankie,1,10,500.0,Fastfood,50.0,2023-02,Mar,False,False
+2023-02-07,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-07,Sandwich,1,4,240.0,Fastfood,60.0,2023-02,Mar,False,False
+2023-02-07,Sugarcane juice,2,24,600.0,Beverages,25.0,2023-02,Mar,False,False
+2023-02-07,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-08,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,False
+2023-02-08,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Mié,False,False
+2023-02-08,Frankie,1,12,600.0,Fastfood,50.0,2023-02,Mié,False,False
+2023-02-08,Panipuri,1,3,60.0,Fastfood,20.0,2023-02,Mié,False,False
+2023-02-08,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Mié,False,False
+2023-02-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Mié,False,False
+2023-02-08,Vadapav,1,12,240.0,Fastfood,20.0,2023-02,Mié,False,False
+2023-02-09,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-09,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Jue,False,False
+2023-02-09,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Jue,False,False
+2023-02-09,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-09,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Jue,False,False
+2023-02-09,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Jue,False,False
+2023-02-09,Vadapav,1,15,300.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-10,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-10,Cold coffee,1,10,400.0,Beverages,40.0,2023-02,Vie,False,False
+2023-02-10,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Vie,False,False
+2023-02-10,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-10,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Vie,False,False
+2023-02-10,Sugarcane juice,1,9,225.0,Beverages,25.0,2023-02,Vie,False,False
+2023-02-10,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-11,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-11,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Sáb,True,False
+2023-02-11,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Sáb,True,False
+2023-02-11,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-11,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Sáb,True,False
+2023-02-11,Sugarcane juice,1,10,250.0,Beverages,25.0,2023-02,Sáb,True,False
+2023-02-11,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-12,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-12,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Dom,True,False
+2023-02-12,Frankie,1,4,200.0,Fastfood,50.0,2023-02,Dom,True,False
+2023-02-12,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-12,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Dom,True,False
+2023-02-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Dom,True,False
+2023-02-12,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-13,Aalopuri,2,8,160.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-13,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Lun,False,False
+2023-02-13,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Lun,False,False
+2023-02-13,Panipuri,2,18,360.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-13,Sandwich,2,26,1560.0,Fastfood,60.0,2023-02,Lun,False,False
+2023-02-13,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Lun,False,False
+2023-02-13,Vadapav,1,8,160.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-14,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-14,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Mar,False,False
+2023-02-14,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Mar,False,False
+2023-02-14,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-14,Sandwich,1,7,420.0,Fastfood,60.0,2023-02,Mar,False,False
+2023-02-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Mar,False,False
+2023-02-14,Vadapav,1,6,120.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-15,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,True
+2023-02-15,Cold coffee,1,14,560.0,Beverages,40.0,2023-02,Mié,False,True
+2023-02-15,Frankie,1,15,750.0,Fastfood,50.0,2023-02,Mié,False,True
+2023-02-15,Panipuri,1,3,60.0,Fastfood,20.0,2023-02,Mié,False,True
+2023-02-15,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Mié,False,True
+2023-02-15,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Mié,False,True
+2023-02-15,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,True
+2023-02-16,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,True
+2023-02-16,Cold coffee,1,10,400.0,Beverages,40.0,2023-02,Jue,False,True
+2023-02-16,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Jue,False,True
+2023-02-16,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,True
+2023-02-16,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Jue,False,True
+2023-02-16,Sugarcane juice,2,10,250.0,Beverages,25.0,2023-02,Jue,False,True
+2023-02-16,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,True
+2023-02-17,Aalopuri,1,2,40.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-17,Cold coffee,1,3,120.0,Beverages,40.0,2023-02,Vie,False,False
+2023-02-17,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Vie,False,False
+2023-02-17,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-17,Sandwich,1,12,720.0,Fastfood,60.0,2023-02,Vie,False,False
+2023-02-17,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Vie,False,False
+2023-02-17,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-18,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-18,Cold coffee,1,15,600.0,Beverages,40.0,2023-02,Sáb,True,False
+2023-02-18,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Sáb,True,False
+2023-02-18,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-18,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Sáb,True,False
+2023-02-18,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Sáb,True,False
+2023-02-18,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-19,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-19,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Dom,True,False
+2023-02-19,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Dom,True,False
+2023-02-19,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-19,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Dom,True,False
+2023-02-19,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Dom,True,False
+2023-02-19,Vadapav,1,15,300.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-20,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-20,Cold coffee,2,21,840.0,Beverages,40.0,2023-02,Lun,False,False
+2023-02-20,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Lun,False,False
+2023-02-20,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-20,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Lun,False,False
+2023-02-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Lun,False,False
+2023-02-20,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-21,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-21,Cold coffee,1,12,480.0,Beverages,40.0,2023-02,Mar,False,False
+2023-02-21,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Mar,False,False
+2023-02-21,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-21,Sandwich,1,8,480.0,Fastfood,60.0,2023-02,Mar,False,False
+2023-02-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Mar,False,False
+2023-02-21,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,False
+2023-02-22,Aalopuri,1,8,160.0,Fastfood,20.0,2023-02,Mié,False,False
+2023-02-22,Cold coffee,1,6,240.0,Beverages,40.0,2023-02,Mié,False,False
+2023-02-22,Frankie,1,9,450.0,Fastfood,50.0,2023-02,Mié,False,False
+2023-02-22,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,False
+2023-02-22,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Mié,False,False
+2023-02-22,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Mié,False,False
+2023-02-22,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Mié,False,False
+2023-02-23,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-23,Cold coffee,1,6,240.0,Beverages,40.0,2023-02,Jue,False,False
+2023-02-23,Frankie,0,0,0.0,Fastfood,50.0,2023-02,Jue,False,False
+2023-02-23,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-23,Sandwich,1,14,840.0,Fastfood,60.0,2023-02,Jue,False,False
+2023-02-23,Sugarcane juice,1,3,75.0,Beverages,25.0,2023-02,Jue,False,False
+2023-02-23,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Jue,False,False
+2023-02-24,Aalopuri,1,3,60.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-24,Cold coffee,1,6,240.0,Beverages,40.0,2023-02,Vie,False,False
+2023-02-24,Frankie,1,7,350.0,Fastfood,50.0,2023-02,Vie,False,False
+2023-02-24,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-24,Sandwich,1,7,420.0,Fastfood,60.0,2023-02,Vie,False,False
+2023-02-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Vie,False,False
+2023-02-24,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Vie,False,False
+2023-02-25,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-25,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Sáb,True,False
+2023-02-25,Frankie,1,9,450.0,Fastfood,50.0,2023-02,Sáb,True,False
+2023-02-25,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-25,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Sáb,True,False
+2023-02-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Sáb,True,False
+2023-02-25,Vadapav,1,2,40.0,Fastfood,20.0,2023-02,Sáb,True,False
+2023-02-26,Aalopuri,1,6,120.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-26,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Dom,True,False
+2023-02-26,Frankie,2,19,950.0,Fastfood,50.0,2023-02,Dom,True,False
+2023-02-26,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-26,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Dom,True,False
+2023-02-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Dom,True,False
+2023-02-26,Vadapav,1,1,20.0,Fastfood,20.0,2023-02,Dom,True,False
+2023-02-27,Aalopuri,0,0,0.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-27,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Lun,False,False
+2023-02-27,Frankie,2,23,1150.0,Fastfood,50.0,2023-02,Lun,False,False
+2023-02-27,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-27,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Lun,False,False
+2023-02-27,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Lun,False,False
+2023-02-27,Vadapav,1,9,180.0,Fastfood,20.0,2023-02,Lun,False,False
+2023-02-28,Aalopuri,1,1,20.0,Fastfood,20.0,2023-02,Mar,False,True
+2023-02-28,Cold coffee,0,0,0.0,Beverages,40.0,2023-02,Mar,False,True
+2023-02-28,Frankie,1,6,300.0,Fastfood,50.0,2023-02,Mar,False,True
+2023-02-28,Panipuri,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,True
+2023-02-28,Sandwich,0,0,0.0,Fastfood,60.0,2023-02,Mar,False,True
+2023-02-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-02,Mar,False,True
+2023-02-28,Vadapav,0,0,0.0,Fastfood,20.0,2023-02,Mar,False,True
+2023-03-01,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,True
+2023-03-01,Cold coffee,1,11,440.0,Beverages,40.0,2023-03,Mié,False,True
+2023-03-01,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Mié,False,True
+2023-03-01,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,True
+2023-03-01,Sandwich,2,18,1080.0,Fastfood,60.0,2023-03,Mié,False,True
+2023-03-01,Sugarcane juice,1,7,175.0,Beverages,25.0,2023-03,Mié,False,True
+2023-03-01,Vadapav,1,12,240.0,Fastfood,20.0,2023-03,Mié,False,True
+2023-03-02,Aalopuri,2,25,500.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-02,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Jue,False,False
+2023-03-02,Frankie,1,8,400.0,Fastfood,50.0,2023-03,Jue,False,False
+2023-03-02,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-02,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Jue,False,False
+2023-03-02,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Jue,False,False
+2023-03-02,Vadapav,1,11,220.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-03,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-03,Cold coffee,1,8,320.0,Beverages,40.0,2023-03,Vie,False,False
+2023-03-03,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Vie,False,False
+2023-03-03,Panipuri,1,13,260.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-03,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Vie,False,False
+2023-03-03,Sugarcane juice,2,10,250.0,Beverages,25.0,2023-03,Vie,False,False
+2023-03-03,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-04,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-04,Cold coffee,1,15,600.0,Beverages,40.0,2023-03,Sáb,True,False
+2023-03-04,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Sáb,True,False
+2023-03-04,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-04,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Sáb,True,False
+2023-03-04,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Sáb,True,False
+2023-03-04,Vadapav,1,9,180.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-05,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-05,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Dom,True,False
+2023-03-05,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Dom,True,False
+2023-03-05,Panipuri,1,4,80.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-05,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Dom,True,False
+2023-03-05,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Dom,True,False
+2023-03-05,Vadapav,3,17,340.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-06,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-06,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Lun,False,False
+2023-03-06,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Lun,False,False
+2023-03-06,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-06,Sandwich,1,7,420.0,Fastfood,60.0,2023-03,Lun,False,False
+2023-03-06,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Lun,False,False
+2023-03-06,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-07,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-07,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Mar,False,False
+2023-03-07,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Mar,False,False
+2023-03-07,Panipuri,1,9,180.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-07,Sandwich,1,1,60.0,Fastfood,60.0,2023-03,Mar,False,False
+2023-03-07,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Mar,False,False
+2023-03-07,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-08,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-08,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Mié,False,False
+2023-03-08,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Mié,False,False
+2023-03-08,Panipuri,1,12,240.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-08,Sandwich,1,9,540.0,Fastfood,60.0,2023-03,Mié,False,False
+2023-03-08,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Mié,False,False
+2023-03-08,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-09,Aalopuri,1,15,300.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-09,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Jue,False,False
+2023-03-09,Frankie,3,30,1500.0,Fastfood,50.0,2023-03,Jue,False,False
+2023-03-09,Panipuri,1,4,80.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-09,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Jue,False,False
+2023-03-09,Sugarcane juice,1,14,350.0,Beverages,25.0,2023-03,Jue,False,False
+2023-03-09,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-10,Aalopuri,1,12,240.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-10,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Vie,False,False
+2023-03-10,Frankie,1,7,350.0,Fastfood,50.0,2023-03,Vie,False,False
+2023-03-10,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-10,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Vie,False,False
+2023-03-10,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Vie,False,False
+2023-03-10,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-11,Aalopuri,1,1,20.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-11,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Sáb,True,False
+2023-03-11,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Sáb,True,False
+2023-03-11,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-11,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Sáb,True,False
+2023-03-11,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Sáb,True,False
+2023-03-11,Vadapav,1,7,140.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-12,Aalopuri,1,4,80.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-12,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Dom,True,False
+2023-03-12,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Dom,True,False
+2023-03-12,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-12,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Dom,True,False
+2023-03-12,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Dom,True,False
+2023-03-12,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-13,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-13,Cold coffee,1,14,560.0,Beverages,40.0,2023-03,Lun,False,False
+2023-03-13,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Lun,False,False
+2023-03-13,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-13,Sandwich,1,14,840.0,Fastfood,60.0,2023-03,Lun,False,False
+2023-03-13,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Lun,False,False
+2023-03-13,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-14,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-14,Cold coffee,1,8,320.0,Beverages,40.0,2023-03,Mar,False,False
+2023-03-14,Frankie,1,13,650.0,Fastfood,50.0,2023-03,Mar,False,False
+2023-03-14,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-14,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Mar,False,False
+2023-03-14,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Mar,False,False
+2023-03-14,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-15,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,True
+2023-03-15,Cold coffee,1,4,160.0,Beverages,40.0,2023-03,Mié,False,True
+2023-03-15,Frankie,1,2,100.0,Fastfood,50.0,2023-03,Mié,False,True
+2023-03-15,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,True
+2023-03-15,Sandwich,2,20,1200.0,Fastfood,60.0,2023-03,Mié,False,True
+2023-03-15,Sugarcane juice,1,10,250.0,Beverages,25.0,2023-03,Mié,False,True
+2023-03-15,Vadapav,1,1,20.0,Fastfood,20.0,2023-03,Mié,False,True
+2023-03-16,Aalopuri,1,3,60.0,Fastfood,20.0,2023-03,Jue,False,True
+2023-03-16,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Jue,False,True
+2023-03-16,Frankie,1,11,550.0,Fastfood,50.0,2023-03,Jue,False,True
+2023-03-16,Panipuri,1,6,120.0,Fastfood,20.0,2023-03,Jue,False,True
+2023-03-16,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Jue,False,True
+2023-03-16,Sugarcane juice,1,12,300.0,Beverages,25.0,2023-03,Jue,False,True
+2023-03-16,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,True
+2023-03-17,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-17,Cold coffee,1,10,400.0,Beverages,40.0,2023-03,Vie,False,False
+2023-03-17,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Vie,False,False
+2023-03-17,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-17,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Vie,False,False
+2023-03-17,Sugarcane juice,1,14,350.0,Beverages,25.0,2023-03,Vie,False,False
+2023-03-17,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-18,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-18,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Sáb,True,False
+2023-03-18,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Sáb,True,False
+2023-03-18,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-18,Sandwich,1,11,660.0,Fastfood,60.0,2023-03,Sáb,True,False
+2023-03-18,Sugarcane juice,1,7,175.0,Beverages,25.0,2023-03,Sáb,True,False
+2023-03-18,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-19,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-19,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Dom,True,False
+2023-03-19,Frankie,3,26,1300.0,Fastfood,50.0,2023-03,Dom,True,False
+2023-03-19,Panipuri,1,11,220.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-19,Sandwich,2,28,1680.0,Fastfood,60.0,2023-03,Dom,True,False
+2023-03-19,Sugarcane juice,1,6,150.0,Beverages,25.0,2023-03,Dom,True,False
+2023-03-19,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-20,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-20,Cold coffee,1,9,360.0,Beverages,40.0,2023-03,Lun,False,False
+2023-03-20,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Lun,False,False
+2023-03-20,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-20,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Lun,False,False
+2023-03-20,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Lun,False,False
+2023-03-20,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-21,Aalopuri,1,14,280.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-21,Cold coffee,1,5,200.0,Beverages,40.0,2023-03,Mar,False,False
+2023-03-21,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Mar,False,False
+2023-03-21,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-21,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Mar,False,False
+2023-03-21,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Mar,False,False
+2023-03-21,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-22,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-22,Cold coffee,1,6,240.0,Beverages,40.0,2023-03,Mié,False,False
+2023-03-22,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Mié,False,False
+2023-03-22,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-22,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Mié,False,False
+2023-03-22,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Mié,False,False
+2023-03-22,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-23,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-23,Cold coffee,1,10,400.0,Beverages,40.0,2023-03,Jue,False,False
+2023-03-23,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Jue,False,False
+2023-03-23,Panipuri,1,12,240.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-23,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Jue,False,False
+2023-03-23,Sugarcane juice,1,14,350.0,Beverages,25.0,2023-03,Jue,False,False
+2023-03-23,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-24,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-24,Cold coffee,1,2,80.0,Beverages,40.0,2023-03,Vie,False,False
+2023-03-24,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Vie,False,False
+2023-03-24,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-24,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Vie,False,False
+2023-03-24,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Vie,False,False
+2023-03-24,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Vie,False,False
+2023-03-25,Aalopuri,1,2,40.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-25,Cold coffee,1,13,520.0,Beverages,40.0,2023-03,Sáb,True,False
+2023-03-25,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Sáb,True,False
+2023-03-25,Panipuri,1,14,280.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-25,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Sáb,True,False
+2023-03-25,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Sáb,True,False
+2023-03-25,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Sáb,True,False
+2023-03-26,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-26,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Dom,True,False
+2023-03-26,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Dom,True,False
+2023-03-26,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-26,Sandwich,1,1,60.0,Fastfood,60.0,2023-03,Dom,True,False
+2023-03-26,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Dom,True,False
+2023-03-26,Vadapav,2,11,220.0,Fastfood,20.0,2023-03,Dom,True,False
+2023-03-27,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-27,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Lun,False,False
+2023-03-27,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Lun,False,False
+2023-03-27,Panipuri,3,34,680.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-27,Sandwich,1,6,360.0,Fastfood,60.0,2023-03,Lun,False,False
+2023-03-27,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Lun,False,False
+2023-03-27,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Lun,False,False
+2023-03-28,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-28,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Mar,False,False
+2023-03-28,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Mar,False,False
+2023-03-28,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-28,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Mar,False,False
+2023-03-28,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Mar,False,False
+2023-03-28,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Mar,False,False
+2023-03-29,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-29,Cold coffee,2,27,1080.0,Beverages,40.0,2023-03,Mié,False,False
+2023-03-29,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Mié,False,False
+2023-03-29,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-29,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Mié,False,False
+2023-03-29,Sugarcane juice,0,0,0.0,Beverages,25.0,2023-03,Mié,False,False
+2023-03-29,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Mié,False,False
+2023-03-30,Aalopuri,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-30,Cold coffee,0,0,0.0,Beverages,40.0,2023-03,Jue,False,False
+2023-03-30,Frankie,0,0,0.0,Fastfood,50.0,2023-03,Jue,False,False
+2023-03-30,Panipuri,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,False
+2023-03-30,Sandwich,0,0,0.0,Fastfood,60.0,2023-03,Jue,False,False
+2023-03-30,Sugarcane juice,1,14,350.0,Beverages,25.0,2023-03,Jue,False,False
+2023-03-30,Vadapav,0,0,0.0,Fastfood,20.0,2023-03,Jue,False,False

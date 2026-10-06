@@ -1,0 +1,11 @@
+# Carga automáticamente los dashboards guardados en grafana/dashboards/
+apiVersion: 1
+
+providers:
+  - name: proyecto-etl
+    folder: Proyecto ETL
+    type: file
+    disableDeletion: false
+    allowUiUpdates: true
+    options:
+      path: /etc/grafana/dashboards
